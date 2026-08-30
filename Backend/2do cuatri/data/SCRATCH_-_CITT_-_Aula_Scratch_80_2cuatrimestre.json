@@ -1,0 +1,92 @@
+[
+    {
+        "materia": "Matemática B",
+        "tipo": "Práctica",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:00",
+        "docente": "Olea, María Mercedes",
+        "semestre": 2
+    },
+    {
+        "materia": "Algoritmos y Programación II",
+        "tipo": "Práctica",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "11:00",
+        "hora_fin": "14:00",
+        "docente": "Hasperue, Waldo",
+        "semestre": 2
+    },
+    {
+        "materia": "Matemática B",
+        "tipo": "Práctica",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "15:30",
+        "hora_fin": "19:30",
+        "docente": "Olea, María Mercedes",
+        "semestre": 2
+    },
+    {
+        "materia": "Matemática B",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "11:30",
+        "hora_fin": "14:30",
+        "docente": "Olea, María Mercedes",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Algoritmos y Programación I",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "15:30",
+        "hora_fin": "17:00",
+        "docente": "Ainchil,  Virginia",
+        "semestre": 2
+    },
+    {
+        "materia": "Algoritmos y Programación II",
+        "tipo": "Práctica",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "17:00",
+        "hora_fin": "20:00",
+        "docente": "Hasperue, Waldo",
+        "semestre": 2
+    },
+    {
+        "materia": "Matemática B",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "11:30",
+        "hora_fin": "14:30",
+        "docente": "Olea, María Mercedes",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Algoritmos y Programación I",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "15:30",
+        "hora_fin": "17:00",
+        "docente": "Ainchil,  Virginia",
+        "semestre": 2
+    },
+    {
+        "materia": "Algoritmos y Programación II",
+        "tipo": "Práctica",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "17:00",
+        "hora_fin": "20:00",
+        "docente": "Hasperue, Waldo",
+        "semestre": 2
+    }
+]
