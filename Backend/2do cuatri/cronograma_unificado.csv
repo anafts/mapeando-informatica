@@ -1,0 +1,625 @@
+aula_codigo,materia,tipo,dia,dia_num,hora_inicio,hora_fin,docente,semestre
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Programación Concurrente,Práctica,Lunes,0,11:00,14:00,"Chichizola, Franco",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Calidad en Sistemas de Software,Teoría,Lunes,0,16:00,18:00,"Pasini,  Ariel",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Matemática A,Teoría,Lunes,0,18:30,21:00,"Rey Grange, Andrea",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Matemática A,Teoría,Martes,1,09:00,15:00,"Rey Grange, Andrea",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Lógica e Inteligencia Artificial,Teoría,Martes,1,16:00,18:30,"Pons,  Claudia",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Ingeniería de Aplicaciones Web,Teoría,Martes,1,18:30,20:00,"Urbieta, Matias",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Sistemas de Tiempo Real,Teoría,Miércoles,2,11:00,13:00,"Encinas,  Diego Omar",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Bases de Datos Distribuidas,Teoría,Miércoles,2,14:30,16:00,"Tinetti,  Fernando",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Matemática A,Práctica,Miércoles,2,17:00,20:00,"Rey Grange, Andrea",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Métodos Ágiles para Aplicaciones Web,Teoría,Jueves,3,08:00,10:30,"Grigera, Julián",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado - Matemática A,Teoría,Jueves,3,11:00,19:00,"Rey Grange, Andrea",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Diseño de interacciones en aplicaciones móviles,Teoría,Viernes,4,08:00,10:30,"Challiol,  Cecilia",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Redictado de Concurrencia y Paralelismo,Teoría,Viernes,4,11:00,14:00,"Chichizola, Franco",2
+ALGOL_-_AULA_1-4_50_2cuatrimestre,Curso Previo Nivelación a Distancia - IaI - IC,Práctica,Viernes,4,15:30,17:30,"Ainchil,  Virginia",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Matemática B,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Redictado - Algoritmos y Programación I,Teoría,Lunes,0,11:00,14:00,"Ainchil,  Virginia",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Matemática B,Práctica,Lunes,0,15:30,19:30,"Olea, María Mercedes",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Martes,1,08:00,11:00,"Hasperue, Waldo",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Matemática B,Teoría,Martes,1,11:30,14:30,"Olea, María Mercedes",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Martes,1,15:30,20:00,"Hasperue, Waldo",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Base de Datos (Ciencia de Datos),Teoría,Miércoles,2,10:00,12:30,"Marrero,  Luciano",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Matemática B,Teoría,Jueves,3,11:30,14:30,"Olea, María Mercedes",2
+ANDROID_-_CITT_-_Aula_Android_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Jueves,3,15:30,20:00,"Hasperue, Waldo",2
+APL_-_AULA_2_50_2cuatrimestre,Ingenieria de Software 1,Práctica,Lunes,0,08:00,11:00,"Ainchil,  Virginia",2
+APL_-_AULA_2_50_2cuatrimestre,Matemática 2,Práctica,Lunes,0,11:00,16:00,"Olea, María Mercedes",2
+APL_-_AULA_2_50_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Redictado - Matemática 3,Teoría,Miércoles,2,16:00,18:00,"Kudraszow, Nadia",2
+APL_-_AULA_2_50_2cuatrimestre,Matemática 2,Práctica,Jueves,3,10:00,19:00,"Olea, María Mercedes",2
+APL_-_AULA_2_50_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+APL_-_AULA_2_50_2cuatrimestre,Lógica e Inteligencia Artificial,Práctica,Sábado,5,10:00,12:00,"Pons,  Claudia",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Programación Concurrente,Práctica,Lunes,0,11:00,14:00,"Chichizola, Franco",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Ingeniería de Software (Ing. en Computación),Teoría,Lunes,0,14:00,18:00,"Muñoz, Rocío",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Taller de Programación,Práctica,Martes,1,08:00,11:00,"De Giusti, Laura",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Matemática 2,Práctica,Martes,1,11:00,13:00,"Olea, María Mercedes",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Matemática 2,Práctica,Martes,1,14:00,16:00,"Olea, María Mercedes",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Redictado - Taller de Lenguajes,Teoría,Miércoles,2,10:00,13:00,"Martín, Eliana Sofía",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,Matemática 2,Práctica,Viernes,4,13:30,16:30,"Olea, María Mercedes",2
+BASIC_-_AULA_1-3_50_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,16:30,18:30,"De Giusti, Laura",2
+COBOL_-_AULA_3_50_2cuatrimestre,Matemática 2,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+COBOL_-_AULA_3_50_2cuatrimestre,Redictado - Curso de Ingreso,Práctica,Lunes,0,14:00,18:00,"Ainchil,  Virginia",2
+COBOL_-_AULA_3_50_2cuatrimestre,Programación Concurrente,Práctica,Martes,1,08:00,11:00,"Chichizola, Franco",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+COBOL_-_AULA_3_50_2cuatrimestre,Redictado - Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Miércoles,2,08:00,10:00,"Harari,  Ivana",2
+COBOL_-_AULA_3_50_2cuatrimestre,Base de Datos (Ciencia de Datos),Teoría,Miércoles,2,10:00,12:30,"Marrero,  Luciano",2
+COBOL_-_AULA_3_50_2cuatrimestre,Curso UPAMI,Teoría,Miércoles,2,15:30,17:00,"Banchoff, Claudia",2
+COBOL_-_AULA_3_50_2cuatrimestre,Tecnologías Aplicadas para Business Intelligence,Práctica,Miércoles,2,17:00,20:00,"Amadeo,  Ana Paola",2
+COBOL_-_AULA_3_50_2cuatrimestre,Matemática 2,Práctica,Jueves,3,08:00,11:00,"Olea, María Mercedes",2
+COBOL_-_AULA_3_50_2cuatrimestre,Redictado - Curso de Ingreso,Práctica,Jueves,3,14:00,18:00,"Ainchil,  Virginia",2
+COBOL_-_AULA_3_50_2cuatrimestre,Base de Datos (Ciencia de Datos),Práctica,Jueves,3,18:00,21:00,"Marrero,  Luciano",2
+COBOL_-_AULA_3_50_2cuatrimestre,Bases de Datos 1,Práctica,Viernes,4,08:00,10:00,"Lliteras, Alejandra",2
+COBOL_-_AULA_3_50_2cuatrimestre,Redes de Datos II,Teoría,Viernes,4,10:00,13:00,"Robles, Matías",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+COBOL_-_AULA_3_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Programación Concurrente,Práctica,Lunes,0,11:00,14:00,"Chichizola, Franco",2
+cronograma_unificado,Calidad en Sistemas de Software,Teoría,Lunes,0,16:00,18:00,"Pasini,  Ariel",2
+cronograma_unificado,Redictado - Matemática A,Teoría,Lunes,0,18:30,21:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática A,Teoría,Martes,1,09:00,15:00,"Rey Grange, Andrea",2
+cronograma_unificado,Lógica e Inteligencia Artificial,Teoría,Martes,1,16:00,18:30,"Pons,  Claudia",2
+cronograma_unificado,Ingeniería de Aplicaciones Web,Teoría,Martes,1,18:30,20:00,"Urbieta, Matias",2
+cronograma_unificado,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Sistemas de Tiempo Real,Teoría,Miércoles,2,11:00,13:00,"Encinas,  Diego Omar",2
+cronograma_unificado,Bases de Datos Distribuidas,Teoría,Miércoles,2,14:30,16:00,"Tinetti,  Fernando",2
+cronograma_unificado,Redictado - Matemática A,Práctica,Miércoles,2,17:00,20:00,"Rey Grange, Andrea",2
+cronograma_unificado,Métodos Ágiles para Aplicaciones Web,Teoría,Jueves,3,08:00,10:30,"Grigera, Julián",2
+cronograma_unificado,Redictado - Matemática A,Teoría,Jueves,3,11:00,19:00,"Rey Grange, Andrea",2
+cronograma_unificado,Diseño de interacciones en aplicaciones móviles,Teoría,Viernes,4,08:00,10:30,"Challiol,  Cecilia",2
+cronograma_unificado,Redictado de Concurrencia y Paralelismo,Teoría,Viernes,4,11:00,14:00,"Chichizola, Franco",2
+cronograma_unificado,Curso Previo Nivelación a Distancia - IaI - IC,Práctica,Viernes,4,15:30,17:30,"Ainchil,  Virginia",2
+cronograma_unificado,Matemática B,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Algoritmos y Programación I,Teoría,Lunes,0,11:00,14:00,"Ainchil,  Virginia",2
+cronograma_unificado,Matemática B,Práctica,Lunes,0,15:30,19:30,"Olea, María Mercedes",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Martes,1,08:00,11:00,"Hasperue, Waldo",2
+cronograma_unificado,Matemática B,Teoría,Martes,1,11:30,14:30,"Olea, María Mercedes",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Martes,1,15:30,20:00,"Hasperue, Waldo",2
+cronograma_unificado,Base de Datos (Ciencia de Datos),Teoría,Miércoles,2,10:00,12:30,"Marrero,  Luciano",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",2
+cronograma_unificado,Matemática B,Teoría,Jueves,3,11:30,14:30,"Olea, María Mercedes",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Jueves,3,15:30,20:00,"Hasperue, Waldo",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Lunes,0,08:00,11:00,"Ainchil,  Virginia",2
+cronograma_unificado,Matemática 2,Práctica,Lunes,0,11:00,16:00,"Olea, María Mercedes",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Matemática 3,Teoría,Miércoles,2,16:00,18:00,"Kudraszow, Nadia",2
+cronograma_unificado,Matemática 2,Práctica,Jueves,3,10:00,19:00,"Olea, María Mercedes",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Lógica e Inteligencia Artificial,Práctica,Sábado,5,10:00,12:00,"Pons,  Claudia",2
+cronograma_unificado,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Programación Concurrente,Práctica,Lunes,0,11:00,14:00,"Chichizola, Franco",2
+cronograma_unificado,Ingeniería de Software (Ing. en Computación),Teoría,Lunes,0,14:00,18:00,"Muñoz, Rocío",2
+cronograma_unificado,Taller de Programación,Práctica,Martes,1,08:00,11:00,"De Giusti, Laura",2
+cronograma_unificado,Matemática 2,Práctica,Martes,1,11:00,13:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Práctica,Martes,1,14:00,16:00,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Redictado - Taller de Lenguajes,Teoría,Miércoles,2,10:00,13:00,"Martín, Eliana Sofía",2
+cronograma_unificado,Matemática 2,Práctica,Viernes,4,13:30,16:30,"Olea, María Mercedes",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,16:30,18:30,"De Giusti, Laura",2
+cronograma_unificado,Matemática 2,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Curso de Ingreso,Práctica,Lunes,0,14:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Programación Concurrente,Práctica,Martes,1,08:00,11:00,"Chichizola, Franco",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Miércoles,2,08:00,10:00,"Harari,  Ivana",2
+cronograma_unificado,Base de Datos (Ciencia de Datos),Teoría,Miércoles,2,10:00,12:30,"Marrero,  Luciano",2
+cronograma_unificado,Curso UPAMI,Teoría,Miércoles,2,15:30,17:00,"Banchoff, Claudia",2
+cronograma_unificado,Tecnologías Aplicadas para Business Intelligence,Práctica,Miércoles,2,17:00,20:00,"Amadeo,  Ana Paola",2
+cronograma_unificado,Matemática 2,Práctica,Jueves,3,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Curso de Ingreso,Práctica,Jueves,3,14:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Base de Datos (Ciencia de Datos),Práctica,Jueves,3,18:00,21:00,"Marrero,  Luciano",2
+cronograma_unificado,Bases de Datos 1,Práctica,Viernes,4,08:00,10:00,"Lliteras, Alejandra",2
+cronograma_unificado,Redes de Datos II,Teoría,Viernes,4,10:00,13:00,"Robles, Matías",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Programación II,Teoría,Lunes,0,08:00,10:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Programación II,Práctica,Lunes,0,10:00,12:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Ingeniería de Software (Ing. en Computación),Teoría,Lunes,0,12:00,14:00,"Pasini,  Ariel",2
+cronograma_unificado,Redictado - Curso de Nivelación de Ingeniería en Computación,Teoría,Lunes,0,14:00,19:00,"Ainchil,  Virginia",2
+cronograma_unificado,Orientación a Objetos 1,Práctica,Lunes,0,19:00,20:30,"Fernandez,  Alejandro",2
+cronograma_unificado,Taller de Programación,Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Programación I,Teoría,Martes,1,10:00,12:00,"Sanz,  Cecilia",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Martes,1,12:00,15:00,"Ainchil,  Virginia",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Práctica,Martes,1,18:00,20:00,"Schiavoni,  Alejandra",2
+cronograma_unificado,Programación II,Teoría,Miércoles,2,08:00,10:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Programación II,Práctica,Miércoles,2,10:00,12:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Redes de Datos II,Práctica,Miércoles,2,15:30,18:00,"Robles, Matías",2
+cronograma_unificado,Taller de Programación,Teoría,Miércoles,2,18:00,21:00,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Teoría,Jueves,3,08:00,11:00,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Práctica,Jueves,3,11:00,14:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Programación I,Teoría,Jueves,3,15:00,17:00,"Sanz,  Cecilia",2
+cronograma_unificado,Ingenieria de Software 1,Teoría,Jueves,3,17:00,19:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Orientación a Objetos 1,Práctica,Jueves,3,19:00,20:30,"Fernandez,  Alejandro",2
+cronograma_unificado,Ingeniería de Software (Ing. en Computación),Práctica,Viernes,4,08:00,11:00,"Pasini,  Ariel",2
+cronograma_unificado,Redictado - Orientación a Objetos 2,Teoría,Viernes,4,16:00,20:30,"Balaguer,  Federico",2
+cronograma_unificado,Redictado - Fundamentos de Arquitectura de Computadoras,Teoría,Sábado,5,09:00,13:00,"Cristina,  Federico",2
+cronograma_unificado,Programación Concurrente,Teoría,Lunes,0,08:00,11:00,"Chichizola, Franco",2
+cronograma_unificado,Ingenieria de Software 1,Teoría,Lunes,0,11:00,14:00,"Boracchia,  Marcos",2
+cronograma_unificado,Redictado - Organización de Computadoras,Teoría,Lunes,0,14:00,17:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Orientación a Objetos 1,Práctica,Lunes,0,17:30,21:00,"Fernandez,  Alejandro",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Teoría,Martes,1,08:30,10:00,"Perez,  Juan Pablo",2
+cronograma_unificado,Diseño de Bases de Datos,Explicación Práctica,Martes,1,10:00,11:30,"Sobrado, Ariel",2
+cronograma_unificado,Diseño de Bases de Datos,Práctica,Martes,1,11:30,14:00,"Sobrado, Ariel",2
+cronograma_unificado,Orientación a Objetos 1,Teoría,Martes,1,14:00,17:00,"Fernandez,  Alejandro",2
+cronograma_unificado,Diseño de Bases de Datos,Explicación Práctica,Martes,1,17:30,20:30,"Sobrado, Ariel",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Teoría,Miércoles,2,08:00,11:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Conceptos de Arquitectura de Computadoras,Teoría,Miércoles,2,11:00,14:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Teoría,Miércoles,2,15:00,18:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Práctica,Jueves,3,08:00,09:30,"Perez,  Juan Pablo",2
+cronograma_unificado,Orientación a Objetos 1,Teoría,Jueves,3,09:30,12:30,"Fernandez,  Alejandro",2
+cronograma_unificado,Orientación a Objetos 1,Teoría,Jueves,3,12:30,14:00,"Fernandez,  Alejandro",2
+cronograma_unificado,Diseño de Bases de Datos,Teoría,Jueves,3,14:30,17:30,"Thomas,  Pablo",2
+cronograma_unificado,Matemática 4,Teoría,Jueves,3,17:30,19:00,"Rey Grange, Andrea",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Práctica,Jueves,3,19:00,20:30,"Perez,  Juan Pablo",2
+cronograma_unificado,Diseño de Bases de Datos,Teoría,Viernes,4,08:30,11:30,"Bertone,  Rodolfo",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Teoría,Viernes,4,11:30,13:00,"Perez,  Juan Pablo",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Práctica,Viernes,4,13:00,14:30,"Perez,  Juan Pablo",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Viernes,4,14:30,17:30,"Ainchil,  Virginia",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Teoría,Viernes,4,17:30,20:30,"Perez,  Juan Pablo",2
+cronograma_unificado,Matemática 2,Teoría,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Lunes,0,11:00,15:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Lunes,0,15:00,18:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Lunes,0,18:00,21:00,"Olea, María Mercedes",2
+cronograma_unificado,Taller de Programación,Práctica,Martes,1,08:00,11:00,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Práctica,Martes,1,11:30,14:30,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Teoría,Martes,1,15:00,19:00,"De Giusti, Laura",2
+cronograma_unificado,Diseño de Bases de Datos,Práctica,Martes,1,19:00,21:30,"Bertone,  Rodolfo",2
+cronograma_unificado,Bases de Datos 1,Teoría,Miércoles,2,08:00,11:00,"Lliteras, Alejandra",2
+cronograma_unificado,Ingenieria de Software 1,Teoría,Miércoles,2,14:00,17:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Redictado - Organización de Computadoras,Práctica,Miércoles,2,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Introducción a los Sistemas Operativos,Teoría,Miércoles,2,19:00,20:30,"Perez,  Juan Pablo",2
+cronograma_unificado,Matemática 2,Teoría,Jueves,3,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Jueves,3,11:00,15:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Jueves,3,15:00,18:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática 2,Teoría,Jueves,3,18:00,21:00,"Olea, María Mercedes",2
+cronograma_unificado,Taller de Programación,Práctica,Viernes,4,08:00,14:30,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Teoría,Viernes,4,15:00,21:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,21:00,22:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Programación,Teoría,Lunes,0,08:00,14:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Organización de Computadoras,Teoría,Lunes,0,14:00,17:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Programación,Práctica,Lunes,0,17:00,20:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Matemática 3,Práctica,Martes,1,08:30,11:30,"Kudraszow, Nadia",2
+cronograma_unificado,Diseño de Bases de Datos,Práctica,Martes,1,11:30,14:00,"Sobrado, Ariel",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Teoría,Martes,1,14:30,17:00,"Schiavoni,  Alejandra",2
+cronograma_unificado,Matemática 4,Teoría,Martes,1,17:00,20:30,"Rey Grange, Andrea",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,08:00,11:00,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Teoría,Miércoles,2,11:00,14:00,"De Giusti, Laura",2
+cronograma_unificado,Taller de Programación,Práctica,Miércoles,2,14:00,17:00,"De Giusti, Laura",2
+cronograma_unificado,Bases de Datos 1,Teoría,Miércoles,2,18:00,21:00,"Lliteras, Alejandra",2
+cronograma_unificado,Bases de Datos 1,Práctica,Jueves,3,08:00,11:00,"Lliteras, Alejandra",2
+cronograma_unificado,Orientación a Objetos 1,Teoría,Jueves,3,11:00,12:30,"Fernandez,  Alejandro",2
+cronograma_unificado,Programación Concurrente,Teoría,Jueves,3,13:00,17:00,"Chichizola, Franco",2
+cronograma_unificado,Programación Concurrente,Práctica,Jueves,3,17:00,20:00,"Chichizola, Franco",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Teoría,Viernes,4,10:00,12:00,"Schiavoni,  Alejandra",2
+cronograma_unificado,Matemática 4,Práctica,Viernes,4,17:00,20:30,"Rey Grange, Andrea",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Lunes,0,08:00,11:30,"Peralta, Sandra Noemí",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,11:30,14:30,"Rey Grange, Andrea",2
+cronograma_unificado,Curso UPAMI,Teoría,Lunes,0,15:00,16:30,"Banchoff, Claudia",2
+cronograma_unificado,Redictado - Matemática A,Práctica,Lunes,0,17:00,20:00,"Rey Grange, Andrea",2
+cronograma_unificado,Taller de Arquitectura,Teoría,Martes,1,12:00,14:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Miércoles,2,09:00,12:00,"Peralta, Sandra Noemí",2
+cronograma_unificado,Enfoques para el desarrollo de Aplicaciones Móviles Multiplataforma,Teoría,Miércoles,2,16:00,19:00,"Thomas,  Pablo",2
+cronograma_unificado,Lógica e Inteligencia Artificial,Práctica,Jueves,3,15:00,17:00,"Pons,  Claudia",2
+cronograma_unificado,Taller de Lenguajes II,Práctica,Jueves,3,17:00,19:00,"Queiruga,  Claudia",2
+cronograma_unificado,Matemática 2,Práctica,Viernes,4,08:30,11:30,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Curso de Ingreso,Práctica,Viernes,4,14:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Sistemas y Organizaciones,Práctica,Viernes,4,18:00,20:30,"Trussi,  Pablo Adalberto",2
+cronograma_unificado,Matemática D,Teoría,Martes,1,08:30,11:30,"Fasano, María Victoria",2
+cronograma_unificado,Matemática B,Teoría,Jueves,3,15:00,17:00,"Olea, María Mercedes",2
+cronograma_unificado,Matemática D,Teoría,Viernes,4,08:30,11:30,"Fasano, María Victoria",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Lunes,0,08:00,10:00,"Ainchil,  Virginia",2
+cronograma_unificado,Ingenieria de Software 1,Teoría,Lunes,0,10:00,13:00,"Boracchia,  Marcos",2
+cronograma_unificado,Matemática 2,Práctica,Lunes,0,13:00,16:00,"Olea, María Mercedes",2
+cronograma_unificado,Taller de Lenguajes II,Teoría,Lunes,0,16:00,18:00,"Queiruga,  Claudia",2
+cronograma_unificado,Taller de Lenguajes II,Práctica,Lunes,0,18:30,20:30,"Queiruga,  Claudia",2
+cronograma_unificado,Redes y Comunicaciones,Teoría,Martes,1,09:00,11:00,"Sabolansky, Alejandro Javier",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Martes,1,11:00,13:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Teoría,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Programación,Práctica,Martes,1,17:00,20:00,"De Giusti, Laura",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,11:00,"Ainchil,  Virginia",2
+cronograma_unificado,Redictado - Curso de Nivelación de Ingeniería en Computación,Práctica,Miércoles,2,14:00,19:00,"Ainchil,  Virginia",2
+cronograma_unificado,Sistemas y Organizaciones,Teoría,Miércoles,2,19:00,20:00,"Trussi,  Pablo Adalberto",2
+cronograma_unificado,Diseño de Bases de Datos,Práctica,Jueves,3,08:00,11:00,"Thomas,  Pablo",2
+cronograma_unificado,Matemática 2,Teoría,Jueves,3,11:00,18:00,"Olea, María Mercedes",2
+cronograma_unificado,Bases de Datos 1,Práctica,Jueves,3,18:00,21:00,"Lliteras, Alejandra",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Viernes,4,08:00,11:00,"Peralta, Sandra Noemí",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Curso de Ingreso,Práctica,Viernes,4,15:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Sistemas y Organizaciones,Práctica,Viernes,4,18:00,20:30,"Trussi,  Pablo Adalberto",2
+cronograma_unificado,Taller de Proyecto II,Teoría,Lunes,0,08:00,10:00,"Tinetti,  Fernando",2
+cronograma_unificado,Programación II,Práctica,Lunes,0,10:00,12:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Desarrollo de Software en Sistemas Distribuidos,Práctica,Lunes,0,14:00,16:00,"Bazan,  Patricia",2
+cronograma_unificado,Redictado - Conceptos de Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Curso de Ingreso,Práctica,Martes,1,14:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,10:00,"Ainchil,  Virginia",2
+cronograma_unificado,Programación II,Práctica,Miércoles,2,10:00,12:00,"Gonzalez,  Alejandro",2
+cronograma_unificado,Laboratorio de Software,Teoría,Miércoles,2,14:30,16:30,"Queiruga,  Claudia",2
+cronograma_unificado,Orientación a Objetos 1,Práctica,Miércoles,2,17:30,20:30,"Fernandez,  Alejandro",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Jueves,3,09:00,12:00,"Peralta, Sandra Noemí",2
+cronograma_unificado,Taller de Proyecto II,Teoría,Jueves,3,14:30,17:00,"Tinetti,  Fernando",2
+cronograma_unificado,Desarrollo de Software en Sistemas Distribuidos,Teoría,Jueves,3,18:00,21:30,"Bazan,  Patricia",2
+cronograma_unificado,Redictado - Conceptos y Paradigmas de Lenguajes de Programación,Teoría,Viernes,4,08:00,10:00,"Harari,  Ivana",2
+cronograma_unificado,Taller de Arquitectura,Práctica,Viernes,4,11:00,14:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Viernes,4,15:00,18:00,"Peralta, Sandra Noemí",2
+cronograma_unificado,"Seminario de Lenguajes - PHP, React y API Rest",Teoría,Lunes,0,08:00,10:00,"Champredonde,  Raul",2
+cronograma_unificado,Taller de Tecnologías de Producción de Software (Opción Ruby),Práctica,Lunes,0,10:00,12:00,"Candia, Luis Damián",2
+cronograma_unificado,Matemática 2,Práctica,Lunes,0,12:00,15:00,"Olea, María Mercedes",2
+cronograma_unificado,Computabilidad y Complejidad,Teoría,Lunes,0,15:30,18:00,"Tinetti,  Fernando",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Redictado - Fundamentos de Arquitectura de Computadoras,Práctica,Miércoles,2,11:00,13:00,"Cristina,  Federico",2
+cronograma_unificado,Curso UPAMI,Teoría,Miércoles,2,13:00,14:30,"Banchoff, Claudia",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,16:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Redictado - Organización de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Bellavita,  Jorge",2
+cronograma_unificado,Matemática 2,Práctica,Jueves,3,12:00,15:00,"Olea, María Mercedes",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Programación Concurrente,Práctica,Sábado,5,09:00,12:00,"Chichizola, Franco",2
+cronograma_unificado,Redictado - Matemática A,Teoría,Lunes,0,08:00,12:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática C,Teoría,Lunes,0,13:00,17:00,"Semento, Tulio",2
+cronograma_unificado,Matemática D,Teoría,Martes,1,08:30,11:30,"Fasano, María Victoria",2
+cronograma_unificado,Conceptos y Aplicaciones de Big Data,Teoría,Martes,1,14:00,17:00,"Hasperue, Waldo",2
+cronograma_unificado,Redictado - Matemática A,Teoría,Miércoles,2,08:00,12:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Algoritmos y Programación I,Teoría,Jueves,3,11:00,14:00,"Ainchil,  Virginia",2
+cronograma_unificado,Matemática B,Teoría,Jueves,3,15:00,17:00,"Olea, María Mercedes",2
+cronograma_unificado,Desarrollo de Software en Sistemas Distribuidos,Práctica,Jueves,3,18:00,21:00,"Bazan,  Patricia",2
+cronograma_unificado,Matemática D,Teoría,Viernes,4,08:30,11:30,"Fasano, María Victoria",2
+cronograma_unificado,Redictado - Matemática C,Práctica,Viernes,4,14:00,17:00,"Semento, Tulio",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,08:00,11:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,11:00,15:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,15:00,18:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,18:00,21:00,"Rey Grange, Andrea",2
+cronograma_unificado,Bases de Datos 1,Práctica,Martes,1,08:00,10:00,"Lliteras, Alejandra",2
+cronograma_unificado,Proyecto de Software,Teoría,Martes,1,10:00,12:30,"Banchoff, Claudia",2
+cronograma_unificado,Redictado - Organización de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Visualización de Grandes Volúmenes de Datos,Práctica,Martes,1,15:00,16:30,"Estrebou,  César",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,16:30,18:30,"De Giusti, Laura",2
+cronograma_unificado,Diseño de Bases de Datos,Práctica,Martes,1,19:00,21:30,"Sobrado, Ariel",2
+cronograma_unificado,Redictado - Matemática 3,Teoría,Miércoles,2,08:30,10:00,"Kudraszow, Nadia",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,10:30,13:30,"Ainchil,  Virginia",2
+cronograma_unificado,Visualización de Grandes Volúmenes de Datos,Teoría,Miércoles,2,14:00,16:00,"Estrebou,  César",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,16:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Redictado - Organización de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Jueves,3,11:00,15:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Jueves,3,15:00,18:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Jueves,3,18:00,21:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 3,Teoría,Viernes,4,08:30,10:00,"Kudraszow, Nadia",2
+cronograma_unificado,Redictado - Conceptos de Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Organización de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Teoría,Viernes,4,15:00,16:30,"Antonelli,  Leandro",2
+cronograma_unificado,Proyecto de Software,Teoría,Viernes,4,18:00,20:00,"Banchoff, Claudia",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Lunes,0,08:00,11:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Lunes,0,11:00,14:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Curso de Nivelación de Ingeniería en Computación,Teoría,Lunes,0,14:00,19:00,"Ainchil,  Virginia",2
+cronograma_unificado,Ingenieria de Software 1,Teoría,Lunes,0,19:00,20:30,"Ainchil,  Virginia",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Final,Martes,1,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Martes,1,12:00,15:00,"Ainchil,  Virginia",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,16:30,18:30,"De Giusti, Laura",2
+cronograma_unificado,Bases de Datos (Ing. en Computación),Práctica,Martes,1,19:00,21:30,"Dapoto, Sebastián",2
+cronograma_unificado,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,13:30,"Ainchil,  Virginia",2
+cronograma_unificado,Computabilidad y Complejidad,Teoría,Miércoles,2,15:00,18:00,"Tinetti,  Fernando",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,18:00,21:00,"De Giusti, Laura",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Jueves,3,11:00,16:00,"Rey Grange, Andrea",2
+cronograma_unificado,Programación Distribuida y Tiempo Real,Teoría,Jueves,3,17:00,18:30,"Tinetti,  Fernando",2
+cronograma_unificado,Taller de Proyecto II,Práctica,Jueves,3,18:30,20:00,"Tinetti,  Fernando",2
+cronograma_unificado,Bases de Datos (Ing. en Computación),Teoría,Viernes,4,08:30,10:00,"Dapoto, Sebastián",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Introducción a la Programación Cuántica,Teoría,Viernes,4,14:30,17:00,"Corbalan, Leonardo",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Matemática B,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Lunes,0,11:00,14:00,"Hasperue, Waldo",2
+cronograma_unificado,Matemática B,Práctica,Lunes,0,15:30,19:30,"Olea, María Mercedes",2
+cronograma_unificado,Matemática B,Teoría,Martes,1,11:30,14:30,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Algoritmos y Programación I,Teoría,Martes,1,15:30,17:00,"Ainchil,  Virginia",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Martes,1,17:00,20:00,"Hasperue, Waldo",2
+cronograma_unificado,Matemática B,Teoría,Jueves,3,11:30,14:30,"Olea, María Mercedes",2
+cronograma_unificado,Redictado - Algoritmos y Programación I,Teoría,Jueves,3,15:30,17:00,"Ainchil,  Virginia",2
+cronograma_unificado,Algoritmos y Programación II,Práctica,Jueves,3,17:00,20:00,"Hasperue, Waldo",2
+cronograma_unificado,Actividad Decanato,Charla,Martes,1,13:00,16:00,"Thomas,  Pablo",2
+cronograma_unificado,Actividad Decanato,Charla,Miércoles,2,09:00,12:00,"Thomas,  Pablo",2
+cronograma_unificado,Actividad Decanato,Charla,Viernes,4,13:00,16:00,"Thomas,  Pablo",2
+cronograma_unificado,Bases de Datos Distribuidas,Teoría,Viernes,4,16:00,18:00,"Tinetti,  Fernando",2
+cronograma_unificado,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Redictado - Taller de Lenguajes I,Teoría,Lunes,0,10:00,12:00,"Lanzarini,  Laura",2
+cronograma_unificado,Redictado - Matemática 1,Teoría,Lunes,0,12:00,16:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Teoría,Lunes,0,16:00,18:00,"Schiavoni,  Alejandra",2
+cronograma_unificado,Sistemas y Organizaciones,Práctica,Lunes,0,18:00,21:30,"Trussi,  Pablo Adalberto",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Martes,1,13:00,16:00,"Peralta, Sandra Noemí",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+cronograma_unificado,Aprendizaje Automático Profundo (Deep Learning),Teoría,Miércoles,2,11:00,13:00,"Lanzarini,  Laura",2
+cronograma_unificado,Redictado - Curso de Nivelación de Ingeniería en Computación,Práctica,Miércoles,2,14:00,18:00,"Ainchil,  Virginia",2
+cronograma_unificado,Redes y Comunicaciones,Teoría,Miércoles,2,18:00,21:00,"Sabolansky, Alejandro Javier",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Matemática 1,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",2
+cronograma_unificado,Redictado - Fundamentos Organización de datos,Teoría,Jueves,3,14:30,18:00,"Marrero,  Luciano",2
+cronograma_unificado,Redictado - Algoritmos y Estructuras de Datos,Teoría,Jueves,3,18:00,19:30,"Schiavoni,  Alejandra",2
+cronograma_unificado,Taller de Tecnologías de Producción de Software (Opción Ruby),Teoría,Viernes,4,08:00,10:00,"Candia, Luis Damián",2
+cronograma_unificado,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+cronograma_unificado,Minería de Datos y Aprendizaje Automático,Teoría,Viernes,4,13:00,16:00,"Hasperue, Waldo",2
+cronograma_unificado,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,16:30,18:30,"De Giusti, Laura",2
+C_-_AULA_10-B_100_2cuatrimestre,Programación II,Teoría,Lunes,0,08:00,10:00,"Gonzalez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Programación II,Práctica,Lunes,0,10:00,12:00,"Gonzalez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Ingeniería de Software (Ing. en Computación),Teoría,Lunes,0,12:00,14:00,"Pasini,  Ariel",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Curso de Nivelación de Ingeniería en Computación,Teoría,Lunes,0,14:00,19:00,"Ainchil,  Virginia",2
+C_-_AULA_10-B_100_2cuatrimestre,Orientación a Objetos 1,Práctica,Lunes,0,19:00,20:30,"Fernandez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Taller de Programación,Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Programación I,Teoría,Martes,1,10:00,12:00,"Sanz,  Cecilia",2
+C_-_AULA_10-B_100_2cuatrimestre,Ingenieria de Software 1,Práctica,Martes,1,12:00,15:00,"Ainchil,  Virginia",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Práctica,Martes,1,18:00,20:00,"Schiavoni,  Alejandra",2
+C_-_AULA_10-B_100_2cuatrimestre,Programación II,Teoría,Miércoles,2,08:00,10:00,"Gonzalez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Programación II,Práctica,Miércoles,2,10:00,12:00,"Gonzalez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Redes de Datos II,Práctica,Miércoles,2,15:30,18:00,"Robles, Matías",2
+C_-_AULA_10-B_100_2cuatrimestre,Taller de Programación,Teoría,Miércoles,2,18:00,21:00,"De Giusti, Laura",2
+C_-_AULA_10-B_100_2cuatrimestre,Taller de Programación,Teoría,Jueves,3,08:00,11:00,"De Giusti, Laura",2
+C_-_AULA_10-B_100_2cuatrimestre,Taller de Programación,Práctica,Jueves,3,11:00,14:00,"De Giusti, Laura",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Programación I,Teoría,Jueves,3,15:00,17:00,"Sanz,  Cecilia",2
+C_-_AULA_10-B_100_2cuatrimestre,Ingenieria de Software 1,Teoría,Jueves,3,17:00,19:00,"Gonzalez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Orientación a Objetos 1,Práctica,Jueves,3,19:00,20:30,"Fernandez,  Alejandro",2
+C_-_AULA_10-B_100_2cuatrimestre,Ingeniería de Software (Ing. en Computación),Práctica,Viernes,4,08:00,11:00,"Pasini,  Ariel",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Orientación a Objetos 2,Teoría,Viernes,4,16:00,20:30,"Balaguer,  Federico",2
+C_-_AULA_10-B_100_2cuatrimestre,Redictado - Fundamentos de Arquitectura de Computadoras,Teoría,Sábado,5,09:00,13:00,"Cristina,  Federico",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Programación Concurrente,Teoría,Lunes,0,08:00,11:00,"Chichizola, Franco",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Ingenieria de Software 1,Teoría,Lunes,0,11:00,14:00,"Boracchia,  Marcos",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Redictado - Organización de Computadoras,Teoría,Lunes,0,14:00,17:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Orientación a Objetos 1,Práctica,Lunes,0,17:30,21:00,"Fernandez,  Alejandro",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Teoría,Martes,1,08:30,10:00,"Perez,  Juan Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Diseño de Bases de Datos,Explicación Práctica,Martes,1,10:00,11:30,"Sobrado, Ariel",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Diseño de Bases de Datos,Práctica,Martes,1,11:30,14:00,"Sobrado, Ariel",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Orientación a Objetos 1,Teoría,Martes,1,14:00,17:00,"Fernandez,  Alejandro",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Diseño de Bases de Datos,Explicación Práctica,Martes,1,17:30,20:30,"Sobrado, Ariel",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Arquitectura de Computadoras,Teoría,Miércoles,2,08:00,11:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Redictado - Conceptos de Arquitectura de Computadoras,Teoría,Miércoles,2,11:00,14:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Arquitectura de Computadoras,Teoría,Miércoles,2,15:00,18:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Arquitectura de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Villagarcia,  Horacio",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Práctica,Jueves,3,08:00,09:30,"Perez,  Juan Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Orientación a Objetos 1,Teoría,Jueves,3,09:30,12:30,"Fernandez,  Alejandro",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Orientación a Objetos 1,Teoría,Jueves,3,12:30,14:00,"Fernandez,  Alejandro",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Diseño de Bases de Datos,Teoría,Jueves,3,14:30,17:30,"Thomas,  Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Matemática 4,Teoría,Jueves,3,17:30,19:00,"Rey Grange, Andrea",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Práctica,Jueves,3,19:00,20:30,"Perez,  Juan Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Diseño de Bases de Datos,Teoría,Viernes,4,08:30,11:30,"Bertone,  Rodolfo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Teoría,Viernes,4,11:30,13:00,"Perez,  Juan Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Práctica,Viernes,4,13:00,14:30,"Perez,  Juan Pablo",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Ingenieria de Software 1,Práctica,Viernes,4,14:30,17:30,"Ainchil,  Virginia",2
+FORTRAN_-_AULA_5_200_2cuatrimestre,Introducción a los Sistemas Operativos,Teoría,Viernes,4,17:30,20:30,"Perez,  Juan Pablo",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Lunes,0,11:00,15:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Lunes,0,15:00,18:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Lunes,0,18:00,21:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Taller de Programación,Práctica,Martes,1,08:00,11:00,"De Giusti, Laura",2
+JAVA_-_AULA_11_200_2cuatrimestre,Taller de Programación,Práctica,Martes,1,11:30,14:30,"De Giusti, Laura",2
+JAVA_-_AULA_11_200_2cuatrimestre,Taller de Programación,Teoría,Martes,1,15:00,19:00,"De Giusti, Laura",2
+JAVA_-_AULA_11_200_2cuatrimestre,Diseño de Bases de Datos,Práctica,Martes,1,19:00,21:30,"Bertone,  Rodolfo",2
+JAVA_-_AULA_11_200_2cuatrimestre,Bases de Datos 1,Teoría,Miércoles,2,08:00,11:00,"Lliteras, Alejandra",2
+JAVA_-_AULA_11_200_2cuatrimestre,Ingenieria de Software 1,Teoría,Miércoles,2,14:00,17:00,"Gonzalez,  Alejandro",2
+JAVA_-_AULA_11_200_2cuatrimestre,Redictado - Organización de Computadoras,Práctica,Miércoles,2,17:00,19:00,"Villagarcia,  Horacio",2
+JAVA_-_AULA_11_200_2cuatrimestre,Introducción a los Sistemas Operativos,Teoría,Miércoles,2,19:00,20:30,"Perez,  Juan Pablo",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Jueves,3,08:00,11:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Jueves,3,11:00,15:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Jueves,3,15:00,18:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Matemática 2,Teoría,Jueves,3,18:00,21:00,"Olea, María Mercedes",2
+JAVA_-_AULA_11_200_2cuatrimestre,Taller de Programación,Práctica,Viernes,4,08:00,14:30,"De Giusti, Laura",2
+JAVA_-_AULA_11_200_2cuatrimestre,Taller de Programación,Teoría,Viernes,4,15:00,21:00,"De Giusti, Laura",2
+JAVA_-_AULA_11_200_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,21:00,22:00,"Villagarcia,  Horacio",2
+LISP_-_AULA_4_140_2cuatrimestre,Taller de Programación,Teoría,Lunes,0,08:00,14:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Redictado - Organización de Computadoras,Teoría,Lunes,0,14:00,17:00,"Villagarcia,  Horacio",2
+LISP_-_AULA_4_140_2cuatrimestre,Taller de Programación,Práctica,Lunes,0,17:00,20:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Redictado - Matemática 3,Práctica,Martes,1,08:30,11:30,"Kudraszow, Nadia",2
+LISP_-_AULA_4_140_2cuatrimestre,Diseño de Bases de Datos,Práctica,Martes,1,11:30,14:00,"Sobrado, Ariel",2
+LISP_-_AULA_4_140_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Teoría,Martes,1,14:30,17:00,"Schiavoni,  Alejandra",2
+LISP_-_AULA_4_140_2cuatrimestre,Matemática 4,Teoría,Martes,1,17:00,20:30,"Rey Grange, Andrea",2
+LISP_-_AULA_4_140_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",2
+LISP_-_AULA_4_140_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,08:00,11:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Taller de Programación,Teoría,Miércoles,2,11:00,14:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Taller de Programación,Práctica,Miércoles,2,14:00,17:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Bases de Datos 1,Teoría,Miércoles,2,18:00,21:00,"Lliteras, Alejandra",2
+LISP_-_AULA_4_140_2cuatrimestre,Bases de Datos 1,Práctica,Jueves,3,08:00,11:00,"Lliteras, Alejandra",2
+LISP_-_AULA_4_140_2cuatrimestre,Orientación a Objetos 1,Teoría,Jueves,3,11:00,12:30,"Fernandez,  Alejandro",2
+LISP_-_AULA_4_140_2cuatrimestre,Programación Concurrente,Teoría,Jueves,3,13:00,17:00,"Chichizola, Franco",2
+LISP_-_AULA_4_140_2cuatrimestre,Programación Concurrente,Práctica,Jueves,3,17:00,20:00,"Chichizola, Franco",2
+LISP_-_AULA_4_140_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+LISP_-_AULA_4_140_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Teoría,Viernes,4,10:00,12:00,"Schiavoni,  Alejandra",2
+LISP_-_AULA_4_140_2cuatrimestre,Matemática 4,Práctica,Viernes,4,17:00,20:30,"Rey Grange, Andrea",2
+LISP_-_AULA_4_140_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Lunes,0,08:00,11:30,"Peralta, Sandra Noemí",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,11:30,14:30,"Rey Grange, Andrea",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Curso UPAMI,Teoría,Lunes,0,15:00,16:30,"Banchoff, Claudia",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Redictado - Matemática A,Práctica,Lunes,0,17:00,20:00,"Rey Grange, Andrea",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Taller de Arquitectura,Teoría,Martes,1,12:00,14:00,"Villagarcia,  Horacio",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Miércoles,2,09:00,12:00,"Peralta, Sandra Noemí",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Enfoques para el desarrollo de Aplicaciones Móviles Multiplataforma,Teoría,Miércoles,2,16:00,19:00,"Thomas,  Pablo",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Lógica e Inteligencia Artificial,Práctica,Jueves,3,15:00,17:00,"Pons,  Claudia",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Taller de Lenguajes II,Práctica,Jueves,3,17:00,19:00,"Queiruga,  Claudia",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Matemática 2,Práctica,Viernes,4,08:30,11:30,"Olea, María Mercedes",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Redictado - Curso de Ingreso,Práctica,Viernes,4,14:00,18:00,"Ainchil,  Virginia",2
+LOGO_-_AULA_1-2_50_2cuatrimestre,Sistemas y Organizaciones,Práctica,Viernes,4,18:00,20:30,"Trussi,  Pablo Adalberto",2
+MATHLAB_-_CITT_-_Aula_Mathlab_50_2cuatrimestre,Matemática D,Teoría,Martes,1,08:30,11:30,"Fasano, María Victoria",2
+MATHLAB_-_CITT_-_Aula_Mathlab_50_2cuatrimestre,Matemática B,Teoría,Jueves,3,15:00,17:00,"Olea, María Mercedes",2
+MATHLAB_-_CITT_-_Aula_Mathlab_50_2cuatrimestre,Matemática D,Teoría,Viernes,4,08:30,11:30,"Fasano, María Victoria",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Ingenieria de Software 1,Práctica,Lunes,0,08:00,10:00,"Ainchil,  Virginia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Ingenieria de Software 1,Teoría,Lunes,0,10:00,13:00,"Boracchia,  Marcos",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Matemática 2,Práctica,Lunes,0,13:00,16:00,"Olea, María Mercedes",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Taller de Lenguajes II,Teoría,Lunes,0,16:00,18:00,"Queiruga,  Claudia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Taller de Lenguajes II,Práctica,Lunes,0,18:30,20:30,"Queiruga,  Claudia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Redes y Comunicaciones,Teoría,Martes,1,09:00,11:00,"Sabolansky, Alejandro Javier",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Martes,1,11:00,13:00,"De Giusti, Laura",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Arquitectura de Computadoras,Teoría,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Taller de Programación,Práctica,Martes,1,17:00,20:00,"De Giusti, Laura",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,11:00,"Ainchil,  Virginia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Redictado - Curso de Nivelación de Ingeniería en Computación,Práctica,Miércoles,2,14:00,19:00,"Ainchil,  Virginia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Sistemas y Organizaciones,Teoría,Miércoles,2,19:00,20:00,"Trussi,  Pablo Adalberto",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Diseño de Bases de Datos,Práctica,Jueves,3,08:00,11:00,"Thomas,  Pablo",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Matemática 2,Teoría,Jueves,3,11:00,18:00,"Olea, María Mercedes",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Bases de Datos 1,Práctica,Jueves,3,18:00,21:00,"Lliteras, Alejandra",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Viernes,4,08:00,11:00,"Peralta, Sandra Noemí",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Redictado - Curso de Ingreso,Práctica,Viernes,4,15:00,18:00,"Ainchil,  Virginia",2
+OBJECTIVE_-_AULA_10-A_100_2cuatrimestre,Sistemas y Organizaciones,Práctica,Viernes,4,18:00,20:30,"Trussi,  Pablo Adalberto",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Taller de Proyecto II,Teoría,Lunes,0,08:00,10:00,"Tinetti,  Fernando",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Programación II,Práctica,Lunes,0,10:00,12:00,"Gonzalez,  Alejandro",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Desarrollo de Software en Sistemas Distribuidos,Práctica,Lunes,0,14:00,16:00,"Bazan,  Patricia",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Redictado - Conceptos de Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Redictado - Curso de Ingreso,Práctica,Martes,1,14:00,18:00,"Ainchil,  Virginia",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,10:00,"Ainchil,  Virginia",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Programación II,Práctica,Miércoles,2,10:00,12:00,"Gonzalez,  Alejandro",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Laboratorio de Software,Teoría,Miércoles,2,14:30,16:30,"Queiruga,  Claudia",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Orientación a Objetos 1,Práctica,Miércoles,2,17:30,20:30,"Fernandez,  Alejandro",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Jueves,3,09:00,12:00,"Peralta, Sandra Noemí",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Taller de Proyecto II,Teoría,Jueves,3,14:30,17:00,"Tinetti,  Fernando",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Desarrollo de Software en Sistemas Distribuidos,Teoría,Jueves,3,18:00,21:30,"Bazan,  Patricia",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Redictado - Conceptos y Paradigmas de Lenguajes de Programación,Teoría,Viernes,4,08:00,10:00,"Harari,  Ivana",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Taller de Arquitectura,Práctica,Viernes,4,11:00,14:00,"Villagarcia,  Horacio",2
+PASCAL_-_AULA_7_50_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Viernes,4,15:00,18:00,"Peralta, Sandra Noemí",2
+PL1_-_AULA_1_50_2cuatrimestre,"Seminario de Lenguajes - PHP, React y API Rest",Teoría,Lunes,0,08:00,10:00,"Champredonde,  Raul",2
+PL1_-_AULA_1_50_2cuatrimestre,Taller de Tecnologías de Producción de Software (Opción Ruby),Práctica,Lunes,0,10:00,12:00,"Candia, Luis Damián",2
+PL1_-_AULA_1_50_2cuatrimestre,Matemática 2,Práctica,Lunes,0,12:00,15:00,"Olea, María Mercedes",2
+PL1_-_AULA_1_50_2cuatrimestre,Computabilidad y Complejidad,Teoría,Lunes,0,15:30,18:00,"Tinetti,  Fernando",2
+PL1_-_AULA_1_50_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,19:00,21:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+PL1_-_AULA_1_50_2cuatrimestre,Redictado - Fundamentos de Arquitectura de Computadoras,Práctica,Miércoles,2,11:00,13:00,"Cristina,  Federico",2
+PL1_-_AULA_1_50_2cuatrimestre,Curso UPAMI,Teoría,Miércoles,2,13:00,14:30,"Banchoff, Claudia",2
+PL1_-_AULA_1_50_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,16:00,18:00,"Ainchil,  Virginia",2
+PL1_-_AULA_1_50_2cuatrimestre,Redictado - Organización de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Bellavita,  Jorge",2
+PL1_-_AULA_1_50_2cuatrimestre,Matemática 2,Práctica,Jueves,3,12:00,15:00,"Olea, María Mercedes",2
+PL1_-_AULA_1_50_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,19:00,21:00,"Villagarcia,  Horacio",2
+PL1_-_AULA_1_50_2cuatrimestre,Programación Concurrente,Práctica,Sábado,5,09:00,12:00,"Chichizola, Franco",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Redictado - Matemática A,Teoría,Lunes,0,08:00,12:00,"Rey Grange, Andrea",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Redictado - Matemática C,Teoría,Lunes,0,13:00,17:00,"Semento, Tulio",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Matemática D,Teoría,Martes,1,08:30,11:30,"Fasano, María Victoria",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Conceptos y Aplicaciones de Big Data,Teoría,Martes,1,14:00,17:00,"Hasperue, Waldo",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Redictado - Matemática A,Teoría,Miércoles,2,08:00,12:00,"Rey Grange, Andrea",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Redictado - Algoritmos y Programación I,Teoría,Jueves,3,11:00,14:00,"Ainchil,  Virginia",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Matemática B,Teoría,Jueves,3,15:00,17:00,"Olea, María Mercedes",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Desarrollo de Software en Sistemas Distribuidos,Práctica,Jueves,3,18:00,21:00,"Bazan,  Patricia",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Matemática D,Teoría,Viernes,4,08:30,11:30,"Fasano, María Victoria",2
+Proyecto_con_Alumnos_-_CITT_-_Proyecto_con_Alumnos_80_2cuatrimestre,Redictado - Matemática C,Práctica,Viernes,4,14:00,17:00,"Semento, Tulio",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,08:00,11:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,11:00,15:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,15:00,18:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,18:00,21:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Bases de Datos 1,Práctica,Martes,1,08:00,10:00,"Lliteras, Alejandra",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Proyecto de Software,Teoría,Martes,1,10:00,12:30,"Banchoff, Claudia",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Organización de Computadoras,Práctica,Martes,1,13:00,15:00,"Villagarcia,  Horacio",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Visualización de Grandes Volúmenes de Datos,Práctica,Martes,1,15:00,16:30,"Estrebou,  César",2
+PYTHON_-_AULA_9_120_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,16:30,18:30,"De Giusti, Laura",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Diseño de Bases de Datos,Práctica,Martes,1,19:00,21:30,"Sobrado, Ariel",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 3,Teoría,Miércoles,2,08:30,10:00,"Kudraszow, Nadia",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,10:30,13:30,"Ainchil,  Virginia",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Visualización de Grandes Volúmenes de Datos,Teoría,Miércoles,2,14:00,16:00,"Estrebou,  César",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,16:00,18:00,"Ainchil,  Virginia",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Organización de Computadoras,Teoría,Miércoles,2,18:00,21:00,"Villagarcia,  Horacio",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Jueves,3,11:00,15:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Jueves,3,15:00,18:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 1,Teoría,Jueves,3,18:00,21:00,"Rey Grange, Andrea",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Matemática 3,Teoría,Viernes,4,08:30,10:00,"Kudraszow, Nadia",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Conceptos de Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Organización de Computadoras,Práctica,Viernes,4,13:00,15:00,"Villagarcia,  Horacio",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Teoría,Viernes,4,15:00,16:30,"Antonelli,  Leandro",2
+PYTHON_-_AULA_9_120_2cuatrimestre,Proyecto de Software,Teoría,Viernes,4,18:00,20:00,"Banchoff, Claudia",2
+RUBY_-_AULA_15_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Lunes,0,08:00,11:00,"Rey Grange, Andrea",2
+RUBY_-_AULA_15_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Lunes,0,11:00,14:00,"Rey Grange, Andrea",2
+RUBY_-_AULA_15_80_2cuatrimestre,Redictado - Curso de Nivelación de Ingeniería en Computación,Teoría,Lunes,0,14:00,19:00,"Ainchil,  Virginia",2
+RUBY_-_AULA_15_80_2cuatrimestre,Ingenieria de Software 1,Teoría,Lunes,0,19:00,20:30,"Ainchil,  Virginia",2
+RUBY_-_AULA_15_80_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Final,Martes,1,08:00,10:00,"De Giusti, Laura",2
+RUBY_-_AULA_15_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+RUBY_-_AULA_15_80_2cuatrimestre,Ingenieria de Software 1,Práctica,Martes,1,12:00,15:00,"Ainchil,  Virginia",2
+RUBY_-_AULA_15_80_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,16:30,18:30,"De Giusti, Laura",2
+RUBY_-_AULA_15_80_2cuatrimestre,Bases de Datos (Ing. en Computación),Práctica,Martes,1,19:00,21:30,"Dapoto, Sebastián",2
+RUBY_-_AULA_15_80_2cuatrimestre,Ingenieria de Software 1,Práctica,Miércoles,2,08:00,13:30,"Ainchil,  Virginia",2
+RUBY_-_AULA_15_80_2cuatrimestre,Computabilidad y Complejidad,Teoría,Miércoles,2,15:00,18:00,"Tinetti,  Fernando",2
+RUBY_-_AULA_15_80_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,18:00,21:00,"De Giusti, Laura",2
+RUBY_-_AULA_15_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+RUBY_-_AULA_15_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Jueves,3,11:00,16:00,"Rey Grange, Andrea",2
+RUBY_-_AULA_15_80_2cuatrimestre,Programación Distribuida y Tiempo Real,Teoría,Jueves,3,17:00,18:30,"Tinetti,  Fernando",2
+RUBY_-_AULA_15_80_2cuatrimestre,Taller de Proyecto II,Práctica,Jueves,3,18:30,20:00,"Tinetti,  Fernando",2
+RUBY_-_AULA_15_80_2cuatrimestre,Bases de Datos (Ing. en Computación),Teoría,Viernes,4,08:30,10:00,"Dapoto, Sebastián",2
+RUBY_-_AULA_15_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+RUBY_-_AULA_15_80_2cuatrimestre,Introducción a la Programación Cuántica,Teoría,Viernes,4,14:30,17:00,"Corbalan, Leonardo",2
+RUBY_-_AULA_15_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,17:00,19:00,"Villagarcia,  Horacio",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Matemática B,Práctica,Lunes,0,08:00,11:00,"Olea, María Mercedes",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Lunes,0,11:00,14:00,"Hasperue, Waldo",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Matemática B,Práctica,Lunes,0,15:30,19:30,"Olea, María Mercedes",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Matemática B,Teoría,Martes,1,11:30,14:30,"Olea, María Mercedes",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Redictado - Algoritmos y Programación I,Teoría,Martes,1,15:30,17:00,"Ainchil,  Virginia",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Martes,1,17:00,20:00,"Hasperue, Waldo",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Matemática B,Teoría,Jueves,3,11:30,14:30,"Olea, María Mercedes",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Redictado - Algoritmos y Programación I,Teoría,Jueves,3,15:30,17:00,"Ainchil,  Virginia",2
+SCRATCH_-_CITT_-_Aula_Scratch_80_2cuatrimestre,Algoritmos y Programación II,Práctica,Jueves,3,17:00,20:00,"Hasperue, Waldo",2
+SMALLTALK_-_AULA_6_10_2cuatrimestre,Actividad Decanato,Charla,Martes,1,13:00,16:00,"Thomas,  Pablo",2
+SMALLTALK_-_AULA_6_10_2cuatrimestre,Actividad Decanato,Charla,Miércoles,2,09:00,12:00,"Thomas,  Pablo",2
+SMALLTALK_-_AULA_6_10_2cuatrimestre,Actividad Decanato,Charla,Viernes,4,13:00,16:00,"Thomas,  Pablo",2
+SMALLTALK_-_AULA_6_10_2cuatrimestre,Bases de Datos Distribuidas,Teoría,Viernes,4,16:00,18:00,"Tinetti,  Fernando",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Programación I,Práctica,Lunes,0,08:00,10:00,"Sanz,  Cecilia",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Taller de Lenguajes I,Teoría,Lunes,0,10:00,12:00,"Lanzarini,  Laura",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Matemática 1,Teoría,Lunes,0,12:00,16:00,"Rey Grange, Andrea",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Teoría,Lunes,0,16:00,18:00,"Schiavoni,  Alejandra",2
+XML_-_AULA_14_80_2cuatrimestre,Sistemas y Organizaciones,Práctica,Lunes,0,18:00,21:30,"Trussi,  Pablo Adalberto",2
+XML_-_AULA_14_80_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",2
+XML_-_AULA_14_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,10:00,12:00,"Villagarcia,  Horacio",2
+XML_-_AULA_14_80_2cuatrimestre,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Martes,1,13:00,16:00,"Peralta, Sandra Noemí",2
+XML_-_AULA_14_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Martes,1,17:00,19:00,"Villagarcia,  Horacio",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Programación I,Práctica,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",2
+XML_-_AULA_14_80_2cuatrimestre,Aprendizaje Automático Profundo (Deep Learning),Teoría,Miércoles,2,11:00,13:00,"Lanzarini,  Laura",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Curso de Nivelación de Ingeniería en Computación,Práctica,Miércoles,2,14:00,18:00,"Ainchil,  Virginia",2
+XML_-_AULA_14_80_2cuatrimestre,Redes y Comunicaciones,Teoría,Miércoles,2,18:00,21:00,"Sabolansky, Alejandro Javier",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Jueves,3,08:00,11:00,"Rey Grange, Andrea",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Matemática 1,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Fundamentos Organización de datos,Teoría,Jueves,3,14:30,18:00,"Marrero,  Luciano",2
+XML_-_AULA_14_80_2cuatrimestre,Redictado - Algoritmos y Estructuras de Datos,Teoría,Jueves,3,18:00,19:30,"Schiavoni,  Alejandra",2
+XML_-_AULA_14_80_2cuatrimestre,Taller de Tecnologías de Producción de Software (Opción Ruby),Teoría,Viernes,4,08:00,10:00,"Candia, Luis Damián",2
+XML_-_AULA_14_80_2cuatrimestre,Arquitectura de Computadoras,Práctica,Viernes,4,10:00,12:00,"Villagarcia,  Horacio",2
+XML_-_AULA_14_80_2cuatrimestre,Minería de Datos y Aprendizaje Automático,Teoría,Viernes,4,13:00,16:00,"Hasperue, Waldo",2
+XML_-_AULA_14_80_2cuatrimestre,"Redictado - Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,16:30,18:30,"De Giusti, Laura",2

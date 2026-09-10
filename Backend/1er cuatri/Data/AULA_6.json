@@ -1,0 +1,62 @@
+[
+    {
+        "materia": "Patrones de Arquitecturas de Software",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "docente": "Bibbó, Mariano",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Actividad Decanato",
+        "tipo": "Charla",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "13:00",
+        "hora_fin": "16:00",
+        "docente": "Thomas,  Pablo",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Actividad Decanato",
+        "tipo": "Charla",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "09:00",
+        "hora_fin": "12:00",
+        "docente": "Thomas,  Pablo",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Patrones de Arquitecturas de Software",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "docente": "Bibbó, Mariano",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Seminario de Lenguajes - Python",
+        "tipo": "Práctica",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "15:00",
+        "hora_fin": "17:00",
+        "docente": "Banchoff, Claudia",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Actividad Decanato",
+        "tipo": "Charla",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "13:00",
+        "hora_fin": "16:00",
+        "docente": "Thomas,  Pablo",
+        "semestre": "Primero"
+    }
+]

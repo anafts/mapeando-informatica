@@ -1,0 +1,162 @@
+[
+    {
+        "materia": "Redictado - Programación I",
+        "tipo": "Práctica",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "08:00",
+        "hora_fin": "10:00",
+        "docente": "Sanz,  Cecilia",
+        "semestre": 2
+    },
+    {
+        "materia": "Programación Concurrente",
+        "tipo": "Práctica",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "11:00",
+        "hora_fin": "14:00",
+        "docente": "Chichizola, Franco",
+        "semestre": 2
+    },
+    {
+        "materia": "Calidad en Sistemas de Software",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "16:00",
+        "hora_fin": "18:00",
+        "docente": "Pasini,  Ariel",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Matemática A",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "18:30",
+        "hora_fin": "21:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Matemática A",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "09:00",
+        "hora_fin": "15:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": 2
+    },
+    {
+        "materia": "Lógica e Inteligencia Artificial",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "16:00",
+        "hora_fin": "18:30",
+        "docente": "Pons,  Claudia",
+        "semestre": 2
+    },
+    {
+        "materia": "Ingeniería de Aplicaciones Web",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "18:30",
+        "hora_fin": "20:00",
+        "docente": "Urbieta, Matias",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Programación I",
+        "tipo": "Práctica",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "08:00",
+        "hora_fin": "10:00",
+        "docente": "Sanz,  Cecilia",
+        "semestre": 2
+    },
+    {
+        "materia": "Sistemas de Tiempo Real",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "11:00",
+        "hora_fin": "13:00",
+        "docente": "Encinas,  Diego Omar",
+        "semestre": 2
+    },
+    {
+        "materia": "Bases de Datos Distribuidas",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "14:30",
+        "hora_fin": "16:00",
+        "docente": "Tinetti,  Fernando",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Matemática A",
+        "tipo": "Práctica",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "17:00",
+        "hora_fin": "20:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": 2
+    },
+    {
+        "materia": "Métodos Ágiles para Aplicaciones Web",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "08:00",
+        "hora_fin": "10:30",
+        "docente": "Grigera, Julián",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado - Matemática A",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "11:00",
+        "hora_fin": "19:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": 2
+    },
+    {
+        "materia": "Diseño de interacciones en aplicaciones móviles",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "08:00",
+        "hora_fin": "10:30",
+        "docente": "Challiol,  Cecilia",
+        "semestre": 2
+    },
+    {
+        "materia": "Redictado de Concurrencia y Paralelismo",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "11:00",
+        "hora_fin": "14:00",
+        "docente": "Chichizola, Franco",
+        "semestre": 2
+    },
+    {
+        "materia": "Curso Previo Nivelación a Distancia - IaI - IC",
+        "tipo": "Práctica",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "15:30",
+        "hora_fin": "17:30",
+        "docente": "Ainchil,  Virginia",
+        "semestre": 2
+    }
+]

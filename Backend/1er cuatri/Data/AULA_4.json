@@ -1,0 +1,272 @@
+[
+    {
+        "materia": "Orientación a Objetos 2",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:00",
+        "docente": "Garrido,  Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Algoritmos y Estructuras de Datos",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "11:00",
+        "hora_fin": "13:00",
+        "docente": "Mostaccio, Catalina",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Programación III",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "13:00",
+        "hora_fin": "14:30",
+        "docente": "Schiavoni,  Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Programación III",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "14:30",
+        "hora_fin": "17:00",
+        "docente": "Schiavoni,  Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Taller de Programación",
+        "tipo": "Teoría",
+        "dia": "Lunes",
+        "dia_num": 0,
+        "hora_inicio": "17:00",
+        "hora_fin": "20:00",
+        "docente": "Hasperue, Waldo",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Conceptos de Algoritmos, Datos y Programas",
+        "tipo": "Final",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:30",
+        "docente": "Ainchil,  Virginia",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Fundamentos de Organización de Datos",
+        "tipo": "Práctica",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "11:30",
+        "hora_fin": "14:00",
+        "docente": "Bertone,  Rodolfo",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Organización de Computadoras",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "14:00",
+        "hora_fin": "16:00",
+        "docente": "Villagarcia,  Horacio",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Algoritmos y Estructuras de Datos",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "16:00",
+        "hora_fin": "18:30",
+        "docente": "Fava,  Laura",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Conceptos de Algoritmos, Datos y Programas",
+        "tipo": "Práctica",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "18:30",
+        "hora_fin": "20:30",
+        "docente": "De Giusti, Laura",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Organización de Computadoras",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "20:30",
+        "hora_fin": "22:00",
+        "docente": "Villagarcia,  Horacio",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Sistemas Distribuidos y Paralelos",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:00",
+        "docente": "Pousa, Adrián",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Matemática 2",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "11:30",
+        "hora_fin": "14:30",
+        "docente": "Olea, María Mercedes",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Arquitectura de Computadoras (Ing. en Computación)",
+        "tipo": "Práctica",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "14:30",
+        "hora_fin": "17:00",
+        "docente": "Villagarcia,  Horacio",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Algoritmos y Estructuras de Datos",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "docente": "Schiavoni,  Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Bases de Datos 2",
+        "tipo": "Teoría",
+        "dia": "Miércoles",
+        "dia_num": 2,
+        "hora_inicio": "19:00",
+        "hora_fin": "21:30",
+        "docente": "Lliteras, Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Bases de Datos 2",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:00",
+        "docente": "Lliteras, Alejandra",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Matemática 4",
+        "tipo": "Práctica",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "11:00",
+        "hora_fin": "14:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Matemática 4",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "14:00",
+        "hora_fin": "17:00",
+        "docente": "Rey Grange, Andrea",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Diseño de Bases de Datos",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "17:00",
+        "hora_fin": "20:00",
+        "docente": "Marrero,  Luciano",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Introducción a Base de Datos",
+        "tipo": "Práctica",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:30",
+        "docente": "Marrero,  Luciano",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Conceptos y Paradigmas de Lenguajes de Programación",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "08:00",
+        "hora_fin": "11:00",
+        "docente": "Devincenzi, Juan Alberto",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Conceptos de Algoritmos, Datos y Programas",
+        "tipo": "Práctica",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "11:30",
+        "hora_fin": "13:30",
+        "docente": "De Giusti, Laura",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Redictado - Matemática 2",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "13:30",
+        "hora_fin": "17:00",
+        "docente": "Olea, María Mercedes",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Organización de Computadoras",
+        "tipo": "Práctica",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "17:00",
+        "hora_fin": "18:30",
+        "docente": "Villagarcia,  Horacio",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Conceptos de Algoritmos, Datos y Programas",
+        "tipo": "Práctica",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "18:30",
+        "hora_fin": "20:30",
+        "docente": "De Giusti, Laura",
+        "semestre": "Primero"
+    },
+    {
+        "materia": "Organización de Computadoras",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "20:30",
+        "hora_fin": "22:00",
+        "docente": "Villagarcia,  Horacio",
+        "semestre": "Primero"
+    }
+]

@@ -1,0 +1,401 @@
+aula_codigo,materia,tipo,dia,dia_num,hora_inicio,hora_fin,docente,semestre
+AULA_1-2,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Lunes,0,08:00,12:00,"Peralta, Sandra Noemí",Segundo
+AULA_1-2,Curso UPAMI,Curso,Lunes,0,15:00,16:30,"Banchoff, Claudia",Anual
+AULA_1-2,Teoría de la Computación y Verificación de Programas,Teoría,Lunes,0,19:00,22:00,"Rosenfeld,  Ricardo",Primero
+AULA_1-2,Redictado - Arquitectura de Computadoras,Teoría,Martes,1,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_1-2,"Aspectos Éticos, Sociales y Profesionales Avanzados de Informática",Teoría,Martes,1,15:00,17:00,"Quiroga, Facundo Manuel",Primero
+AULA_1-2,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_1-2,"Introducción a Blockchain, Criptomonedas y Smart Contracts",Teoría,Martes,1,18:30,20:00,"Urbieta, Matias",Primero
+AULA_1-2,Programación I,Práctica,Miércoles,2,10:00,12:30,"Ainchil,  Virginia",Primero
+AULA_1-2,Redictado - Matemática B,Teoría,Miércoles,2,13:30,16:30,"Olea, María Mercedes",Primero
+AULA_1-2,Taller de Lenguajes,Teoría,Miércoles,2,16:30,18:30,"Martín, Eliana Sofía",Primero
+AULA_1-2,Redictado - Sistemas y Organizaciones,Teoría,Miércoles,2,18:30,21:30,"Trussi,  Pablo Adalberto",Primero
+AULA_1-2,Seminario de Lenguajes - Python,Teoría,Jueves,3,08:00,11:00,"Banchoff, Claudia",Primero
+AULA_1-2,Curso UPAMI,Teoría,Jueves,3,11:00,12:30,"Banchoff, Claudia",Anual
+AULA_1-2,"Aspectos Éticos, Sociales y Profesionales Avanzados de Informática",Teoría,Jueves,3,15:00,17:00,"Quiroga, Facundo Manuel",Primero
+AULA_1-2,Redictado - Matemática 4,Teoría,Jueves,3,17:00,21:00,"Rey Grange, Andrea",Primero
+AULA_1-2,Matemática C,Práctica,Viernes,4,08:00,10:00,"Semento, Tulio",Primero
+AULA_1-2,Programación I,Práctica,Viernes,4,10:00,12:30,"Sanz,  Cecilia",Primero
+AULA_1-2,Orientación a Objetos 2,Charla,Viernes,4,15:00,17:00,"Garrido,  Alejandra",Primero
+AULA_1-2,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_1-3,Redictado - Programación II,Teoría,Lunes,0,08:00,12:00,"Gonzalez,  Alejandro",Primero
+AULA_1-3,Redictado - Curso de Ingreso,Teoría,Lunes,0,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_1-3,Algoritmos y Estructuras de Datos,Práctica,Lunes,0,18:00,21:00,"Schiavoni,  Alejandra",Primero
+AULA_1-3,"Seminario de Lenguajes - PHP, React y API Rest",Teoría,Martes,1,08:00,10:00,"Champredonde,  Raul",Primero
+AULA_1-3,Orientación a Objetos 2,Teoría,Martes,1,10:00,12:00,"Garrido,  Alejandra",Primero
+AULA_1-3,Organización de Computadoras,Práctica,Martes,1,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_1-3,Seminario de Lenguajes - Rust,Teoría,Martes,1,15:00,17:00,"Borda, Emanuel",Primero
+AULA_1-3,Redictado - Matemática 4,Teoría,Martes,1,17:00,19:00,"Rey Grange, Andrea",Primero
+AULA_1-3,Fundamentos de Organización de Datos,Práctica,Martes,1,19:00,21:30,"Bertone,  Rodolfo",Primero
+AULA_1-3,"Seminario de Lenguajes - PHP, React y API Rest",Práctica,Miércoles,2,08:00,10:00,"Champredonde,  Raul",Primero
+AULA_1-3,Redictado - Orientación a Objetos 1,Práctica,Miércoles,2,10:00,12:00,"Rodriguez, Andrés",Primero
+AULA_1-3,Redictado - Curso de Ingreso,Teoría,Miércoles,2,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_1-3,Economía y Emprendedorismo,Teoría,Miércoles,2,18:00,21:00,"Cueto, Anibal",Primero
+AULA_1-3,Redictado - Programación II,Práctica,Jueves,3,08:00,12:00,"Gonzalez,  Alejandro",Primero
+AULA_1-3,Orientación a Objetos 2,Práctica,Jueves,3,17:30,19:00,"Garrido,  Alejandra",Primero
+AULA_1-3,Teoría de la Computación y Verificación de Programas,Teoría,Jueves,3,19:00,22:00,"Rosenfeld,  Ricardo",Primero
+AULA_1-3,Matemática C,Práctica,Viernes,4,08:00,10:00,"Semento, Tulio",Primero
+AULA_1-3,Programación I,Práctica,Viernes,4,10:00,12:30,"Ainchil,  Virginia",Primero
+AULA_1-3,Organización de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_1-3,Organización de Computadoras,Práctica,Viernes,4,16:30,18:00,"Villagarcia,  Horacio",Primero
+AULA_1-3,Economía y Emprendedorismo,Teoría,Viernes,4,18:00,21:00,"Walas Mateo, Federico",Primero
+AULA_1-4,Redictado - Programación II,Teoría,Lunes,0,08:00,12:00,"Gonzalez,  Alejandro",Primero
+AULA_1-4,Aspectos Legales y Profesionales de Informática,Teoría,Lunes,0,16:00,18:00,"Iglesias,  Gonzalo",Primero
+AULA_1-4,Introducción a Base de Datos,Teoría,Lunes,0,18:00,20:30,"Marrero,  Luciano",Primero
+AULA_1-4,Curso UPAMI,Curso,Martes,1,10:00,11:30,"Banchoff, Claudia",Anual
+AULA_1-4,Redictado - Ingeniería de Software 1,Teoría,Martes,1,15:00,17:00,"Pasini,  Ariel",Primero
+AULA_1-4,Diseño Centrado en el Usuario,Charla,Martes,1,17:00,19:00,"Harari,  Ivana",Primero
+AULA_1-4,Teoría de la Computación y Verificación de Programas,Teoría,Martes,1,19:00,22:00,"Rosenfeld,  Ricardo",Primero
+AULA_1-4,Diseño Centrado en el Usuario,Teoría,Miércoles,2,08:30,10:30,"Harari,  Ivana",Primero
+AULA_1-4,Curso UPAMI,Teoría,Miércoles,2,11:00,12:30,"Banchoff, Claudia",Anual
+AULA_1-4,Orientación a Objetos 2,Explicación Práctica,Miércoles,2,17:30,19:00,"Garrido,  Alejandra",Primero
+AULA_1-4,Redictado - Programación II,Práctica,Jueves,3,08:00,12:00,"Gonzalez,  Alejandro",Primero
+AULA_1-4,Seminario de Lenguajes - Go,Teoría,Jueves,3,16:30,18:30,"Champredonde,  Raul",Primero
+AULA_1-4,Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Jueves,3,18:30,20:30,"Devincenzi, Juan Alberto",Primero
+AULA_1-4,Matemática C,Práctica,Viernes,4,08:00,10:00,"Semento, Tulio",Primero
+AULA_1-4,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Viernes,4,10:00,11:00,"Peralta, Sandra Noemí",Segundo
+AULA_1-4,Fundamentos de Arquitectura de Computadoras,Práctica,Viernes,4,12:30,14:30,"Cristina,  Federico",Primero
+AULA_1-4,Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Viernes,4,14:30,16:30,"Devincenzi, Juan Alberto",Primero
+AULA_1-4,Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Viernes,4,17:00,19:00,"Devincenzi, Juan Alberto",Primero
+AULA_1,Fundamentos de Arquitectura de Computadoras,Práctica,Lunes,0,08:00,10:00,"Cristina,  Federico",Primero
+AULA_1,Programación Concurrente (ATIC),Práctica,Lunes,0,11:00,14:00,"Chichizola, Franco",Primero
+AULA_1,Ingeniería de Software 2,Práctica,Lunes,0,14:30,21:00,"Ainchil,  Virginia",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Martes,1,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,11:30,13:30,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Martes,1,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,15:00,17:00,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,18:30,20:30,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_1,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Miércoles,2,09:00,12:00,"Peralta, Sandra Noemí",Segundo
+AULA_1,Aspectos Legales y Profesionales de Informática,Teoría,Miércoles,2,16:00,18:00,"Iglesias,  Gonzalo",Primero
+AULA_1,Redictado - Introducción  a los Sistemas Operativos,Teoría,Miércoles,2,18:00,19:30,"Perez,  Juan Pablo",Primero
+AULA_1,Redictado - Orientación a Objetos 1,Teoría,Jueves,3,18:30,20:30,"Rodriguez, Andrés",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,11:30,13:30,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,15:00,17:00,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_1,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+AULA_1,Organización de Computadoras,Práctica,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_10-A,Redictado - Taller de Programación,Teoría,Lunes,0,08:00,11:00,"Hasperue, Waldo",Primero
+AULA_10-A,Matemática 1,Teoría,Lunes,0,11:00,14:30,"Rey Grange, Andrea",Primero
+AULA_10-A,Matemática 3,Teoría,Lunes,0,14:30,16:00,"Pintarelli, María Beatriz",Primero
+AULA_10-A,Orientación a Objetos 2,Práctica,Lunes,0,16:00,17:30,"Garrido,  Alejandra",Primero
+AULA_10-A,Orientación a Objetos 2,Práctica,Lunes,0,17:30,19:00,"Garrido,  Alejandra",Primero
+AULA_10-A,Sistemas Operativos,Práctica,Lunes,0,19:00,21:00,"Perez,  Juan Pablo",Primero
+AULA_10-A,Orientación a Objetos 2,Explicación Práctica,Martes,1,08:00,10:00,"Garrido,  Alejandra",Primero
+AULA_10-A,Conceptos de Arquitectura de Computadoras,Teoría,Martes,1,10:00,12:00,"Villagarcia,  Horacio",Primero
+AULA_10-A,Redictado - Ingeniería de Software 1,Práctica,Martes,1,12:00,14:30,"Pasini,  Ariel",Primero
+AULA_10-A,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_10-A,Fundamentos de la Teoría de la Computación,Práctica,Martes,1,19:00,22:00,"Pons,  Claudia",Primero
+AULA_10-A,Matemática 3,Teoría,Miércoles,2,08:30,10:00,"Kudraszow, Nadia",Primero
+AULA_10-A,Programación I,Práctica,Miércoles,2,10:00,12:30,"Sanz,  Cecilia",Primero
+AULA_10-A,Matemática 1,Teoría,Miércoles,2,13:00,18:00,"Rey Grange, Andrea",Primero
+AULA_10-A,Sistemas Operativos,Teoría,Miércoles,2,18:00,20:00,"Perez,  Juan Pablo",Primero
+AULA_10-A,Algoritmos y Estructuras de Datos,Práctica,Jueves,3,10:30,12:00,"Schiavoni,  Alejandra",Primero
+AULA_10-A,Matemática 1,Práctica,Jueves,3,12:00,14:00,"Rey Grange, Andrea",Primero
+AULA_10-A,Conceptos de Bases de Datos,Teoría,Jueves,3,14:30,17:30,"Dapoto, Sebastián",Primero
+AULA_10-A,Programación III,Teoría,Jueves,3,17:30,20:00,"Schiavoni,  Alejandra",Primero
+AULA_10-A,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Viernes,4,08:00,10:00,"Peralta, Sandra Noemí",Segundo
+AULA_10-A,Programación I,Práctica,Viernes,4,10:00,12:30,"Ainchil,  Virginia",Primero
+AULA_10-A,"Fundamentos de Arquitectura de Computadoras, Sistemas Operativos y Redes",Teoría,Viernes,4,12:30,15:00,"Martín, Eliana Sofía",Primero
+AULA_10-A,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Viernes,4,15:00,18:00,"Peralta, Sandra Noemí",Segundo
+AULA_10-A,Algoritmos y Estructuras de Datos,Teoría,Viernes,4,18:00,19:30,"Schiavoni,  Alejandra",Primero
+AULA_10-A,Sistemas Operativos,Teoría,Viernes,4,19:30,21:00,"Perez,  Juan Pablo",Primero
+AULA_10-B,Matemática 1,Práctica,Lunes,0,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_10-B,Matemática 1,Práctica,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_10-B,Fundamentos de la Teoría de la Computación,Teoría,Lunes,0,14:00,16:00,"Pons,  Claudia",Primero
+AULA_10-B,Ingeniería de Software 3,Teoría,Lunes,0,16:00,18:00,"Muñoz, Rocío",Primero
+AULA_10-B,Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Lunes,0,18:00,20:00,"Devincenzi, Juan Alberto",Primero
+AULA_10-B,Redes y Comunicaciones,Teoría,Martes,1,09:00,11:30,"Barbieri,  Andres",Primero
+AULA_10-B,Fundamentos de Organización de Datos,Práctica,Martes,1,11:30,14:00,"Bertone,  Rodolfo",Primero
+AULA_10-B,Ingeniería de Software (Ciencia de Datos),Teoría,Martes,1,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_10-B,Redictado - Arquitectura de Computadoras,Práctica,Martes,1,18:00,20:30,"Villagarcia,  Horacio",Primero
+AULA_10-B,Programación I,Práctica,Miércoles,2,10:00,12:30,"Sanz,  Cecilia",Primero
+AULA_10-B,Conceptos de Arquitectura de Computadoras,Teoría,Miércoles,2,14:00,16:00,"Villagarcia,  Horacio",Primero
+AULA_10-B,Ingeniería de Software (Ciencia de Datos),Práctica,Miércoles,2,16:00,18:00,"Pasini,  Ariel",Primero
+AULA_10-B,Redictado - Introducción  a los Sistemas Operativos,Práctica,Miércoles,2,19:30,21:00,"Perez,  Juan Pablo",Primero
+AULA_10-B,Matemática 1,Teoría,Jueves,3,08:00,10:00,"Rey Grange, Andrea",Primero
+AULA_10-B,Conceptos de Arquitectura de Computadoras,Teoría,Jueves,3,10:00,12:00,"Villagarcia,  Horacio",Primero
+AULA_10-B,Matemática 1,Práctica,Jueves,3,12:00,18:00,"Rey Grange, Andrea",Primero
+AULA_10-B,Bases de Datos 2,Teoría,Jueves,3,18:00,21:00,"Lliteras, Alejandra",Primero
+AULA_10-B,Bases de Datos 2,Teoría,Viernes,4,08:00,10:30,"Lliteras, Alejandra",Primero
+AULA_10-B,Redictado - Arquitectura de Computadoras,Teoría,Viernes,4,11:00,12:30,"Villagarcia,  Horacio",Primero
+AULA_10-B,Ingeniería de Software 2,Teoría,Viernes,4,12:30,14:30,"Muñoz, Rocío",Primero
+AULA_10-B,Ingeniería de Software 3,Práctica,Viernes,4,16:00,19:00,"Pasini,  Ariel",Primero
+AULA_10-B,Fundamentos de la Teoría de la Computación,Práctica,Viernes,4,19:00,22:00,"Pons,  Claudia",Primero
+AULA_11,Matemática 1,Teoría,Lunes,0,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Lunes,0,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Lunes,0,18:00,21:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 3,Teoría,Martes,1,08:00,09:30,"Pintarelli, María Beatriz",Primero
+AULA_11,Arquitectura de Computadoras (Ing. en Computación),Teoría,Martes,1,09:30,11:30,"Villagarcia,  Horacio",Primero
+AULA_11,Fundamentos de Organización de Datos,Práctica,Martes,1,11:30,14:00,"Bertone,  Rodolfo",Primero
+AULA_11,Conceptos de Bases de Datos,Práctica,Martes,1,14:30,17:30,"Dapoto, Sebastián",Primero
+AULA_11,Fundamentos de Organización de Datos,Práctica,Martes,1,17:30,21:30,"Bertone,  Rodolfo",Primero
+AULA_11,Programación I,Teoría,Miércoles,2,08:00,10:00,"Sanz,  Cecilia",Primero
+AULA_11,"Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,10:00,13:00,"De Giusti, Laura",Primero
+AULA_11,Redictado - Arquitectura de Computadoras,Teoría,Miércoles,2,13:30,16:30,"Villagarcia,  Horacio",Primero
+AULA_11,"Conceptos de Algoritmos, Datos y Programas",Teoría,Miércoles,2,16:30,20:30,"De Giusti, Laura",Primero
+AULA_11,Matemática 1,Teoría,Jueves,3,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Jueves,3,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_11,Matemática 1,Teoría,Jueves,3,18:00,21:00,"Rey Grange, Andrea",Primero
+AULA_11,Programación I,Teoría,Viernes,4,08:00,10:00,"Sanz,  Cecilia",Primero
+AULA_11,Programación I,Práctica,Viernes,4,10:00,12:30,"Sanz,  Cecilia",Primero
+AULA_11,Redictado - Curso de Ingreso,Teoría,Viernes,4,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_11,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:00,20:00,"De Giusti, Laura",Primero
+AULA_11,Fundamentos de Arquitectura de Computadoras,Teoría,Sábado,5,09:00,13:00,"Cristina,  Federico",Primero
+AULA_14,Fundamentos de Arquitectura de Computadoras,Práctica,Lunes,0,08:00,10:00,"Cristina,  Federico",Primero
+AULA_14,Taller de Lenguajes I,Teoría,Lunes,0,10:00,12:00,"Lanzarini,  Laura",Primero
+AULA_14,Redictado - Matemática 4,Práctica,Lunes,0,12:00,18:00,"Rey Grange, Andrea",Primero
+AULA_14,Aspectos Legales y Profesionales de Informática,Teoría,Lunes,0,18:00,20:00,"Iglesias,  Gonzalo",Primero
+AULA_14,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",Primero
+AULA_14,Organización de Computadoras,Práctica,Martes,1,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_14,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,11:30,13:30,"De Giusti, Laura",Primero
+AULA_14,Redictado - Curso de Ingreso,Teoría,Martes,1,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_14,Web Semántica y Grafos de Conocimiento,Teoría,Martes,1,18:00,20:30,"Fernandez,  Alejandro",Primero
+AULA_14,Conceptos y Paradigmas de Lenguajes de Programación,Práctica,Miércoles,2,08:00,10:00,"Devincenzi, Juan Alberto",Primero
+AULA_14,Programación I,Práctica,Miércoles,2,10:00,12:00,"Sanz,  Cecilia",Primero
+AULA_14,Programación Concurrente (ATIC),Teoría,Miércoles,2,12:00,15:00,"Chichizola, Franco",Primero
+AULA_14,Seminario de Lenguajes - JavaScript,Práctica,Miércoles,2,15:00,18:00,"Amadeo,  Ana Paola",Primero
+AULA_14,Sistemas Operativos,Práctica,Miércoles,2,18:00,21:30,"Perez,  Juan Pablo",Primero
+AULA_14,Redictado - Taller de Programación,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",Primero
+AULA_14,Concurrencia y Paralelismo,Explicación Práctica,Jueves,3,11:00,13:00,"Chichizola, Franco",Primero
+AULA_14,Redictado - Curso de Ingreso,Teoría,Jueves,3,14:00,17:30,"Ainchil,  Virginia",Primero
+AULA_14,Concurrencia y Paralelismo,Práctica,Jueves,3,17:30,20:00,"Chichizola, Franco",Primero
+AULA_14,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",Primero
+AULA_14,Organización de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_14,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,11:30,13:30,"De Giusti, Laura",Primero
+AULA_14,Organización de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_14,"Conceptos de Algoritmos, Datos y Programas",Teoría,Viernes,4,15:00,17:00,"De Giusti, Laura",Primero
+AULA_14,Ingeniería de Software (Ciencia de Datos),Práctica,Viernes,4,18:00,20:00,"Pasini,  Ariel",Primero
+AULA_15,Matemática 1,Práctica,Lunes,0,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_15,Matemática 1,Práctica,Lunes,0,11:30,14:30,"Rey Grange, Andrea",Primero
+AULA_15,Matemática 1,Práctica,Lunes,0,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_15,Redictado - Introducción  a los Sistemas Operativos,Práctica,Lunes,0,18:00,21:00,"Perez,  Juan Pablo",Primero
+AULA_15,Redictado - Taller de Programación,Práctica,Martes,1,08:00,12:00,"Hasperue, Waldo",Primero
+AULA_15,Organización de Computadoras,Práctica,Martes,1,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_15,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,15:00,17:00,"De Giusti, Laura",Primero
+AULA_15,Seminario de Lenguajes - JavaScript,Teoría,Martes,1,17:00,20:00,"Amadeo,  Ana Paola",Primero
+AULA_15,Matemática 1,Teoría,Miércoles,2,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_15,Minería de Datos usando Sistemas Inteligentes,Teoría,Miércoles,2,11:00,13:00,"Lanzarini,  Laura",Primero
+AULA_15,Organización de Computadoras,Teoría,Miércoles,2,13:00,14:30,"Villagarcia,  Horacio",Primero
+AULA_15,Matemática 1,Teoría,Miércoles,2,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_15,Matemática C,Práctica,Miércoles,2,18:00,21:00,"Semento, Tulio",Primero
+AULA_15,Matemática 1,Práctica,Jueves,3,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_15,Matemática 1,Práctica,Jueves,3,11:30,14:30,"Rey Grange, Andrea",Primero
+AULA_15,Matemática 1,Práctica,Jueves,3,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_15,Redictado - Taller de Programación,Práctica,Jueves,3,18:00,21:00,"Hasperue, Waldo",Primero
+AULA_15,Orientación a Objetos 2,Teoría,Viernes,4,08:00,09:30,"Garrido,  Alejandra",Primero
+AULA_15,Matemática 3,Teoría,Viernes,4,09:30,11:00,"Kudraszow, Nadia",Primero
+AULA_15,Matemática 3,Teoría,Viernes,4,11:30,14:30,"Kudraszow, Nadia",Primero
+AULA_15,Ingeniería de Software 2,Teoría,Viernes,4,14:30,18:30,"Gonzalez,  Alejandro",Primero
+AULA_15,Seminario de Lenguajes - Android + Kotlin,Teoría,Viernes,4,18:30,20:30,"Fernandez Sosa, Juan Francisco",Primero
+AULA_2,"Seminario de Lenguajes - PHP, React y API Rest",Teoría,Lunes,0,08:00,10:00,"Champredonde,  Raul",Primero
+AULA_2,Ingeniería de Software 3,Teoría,Lunes,0,15:00,18:00,"Muñoz, Rocío",Primero
+AULA_2,Orientación a Objetos 2,Práctica,Lunes,0,19:00,20:30,"Garrido,  Alejandra",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Martes,1,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,11:30,13:30,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Martes,1,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,15:00,17:00,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,18:30,20:30,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_2,Ingeniería de Software 2,Práctica,Miércoles,2,08:00,11:30,"Ainchil,  Virginia",Primero
+AULA_2,Redictado - Matemática 2,Práctica,Miércoles,2,11:30,14:30,"Olea, María Mercedes",Primero
+AULA_2,Java y Aplicaciones Avanzadas sobre Internet,Teoría,Miércoles,2,14:30,16:30,"Queiruga,  Claudia",Primero
+AULA_2,Redictado - Ingeniería de Software 1,Teoría,Miércoles,2,17:00,19:00,"Nucilli, Emanuel",Primero
+AULA_2,Orientación a Objetos 2,Práctica,Miércoles,2,19:00,20:30,"Garrido,  Alejandra",Primero
+AULA_2,Ingeniería de Software 2,Práctica,Jueves,3,11:00,21:00,"Ainchil,  Virginia",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,11:30,13:30,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,15:00,17:00,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_2,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+AULA_2,Organización de Computadoras,Práctica,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_2,Redictado - Lógica y Elementos de la Inteligencia Artificial,Teoría,Sábado,5,10:00,13:00,"Smith,  Clara",Primero
+AULA_3,Redictado - Curso de Ingreso,Teoría,Lunes,0,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_3,Redictado - Sistemas y Organizaciones,Teoría,Lunes,0,18:00,19:30,"Trussi,  Pablo Adalberto",Primero
+AULA_3,Redictado - Sistemas y Organizaciones,Teoría,Lunes,0,19:30,21:00,"Trussi,  Pablo Adalberto",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,08:00,10:00,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Martes,1,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,11:30,13:30,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Martes,1,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,15:00,17:00,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,18:30,20:30,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Martes,1,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_3,Redictado - Orientación a Objetos 1,Teoría,Miércoles,2,10:00,12:00,"Rodriguez, Andrés",Primero
+AULA_3,Redictado - Curso de Ingreso,Teoría,Miércoles,2,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_3,Seminario de Lenguajes - Android + Kotlin,Teoría,Miércoles,2,18:30,21:00,"Fernandez Sosa, Juan Francisco",Primero
+AULA_3,Taller de Lecto-Comprensión y Traducción en Ingles,Práctica,Jueves,3,09:00,12:00,"Peralta, Sandra Noemí",Segundo
+AULA_3,Programación Concurrente (ATIC),Práctica,Jueves,3,17:00,20:00,"Chichizola, Franco",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,08:00,10:00,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Viernes,4,10:00,11:30,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,11:30,13:30,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Viernes,4,13:30,15:00,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,15:00,17:00,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_3,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+AULA_3,Organización de Computadoras,Práctica,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_4,Orientación a Objetos 2,Teoría,Lunes,0,08:00,11:00,"Garrido,  Alejandra",Primero
+AULA_4,Algoritmos y Estructuras de Datos,Teoría,Lunes,0,11:00,13:00,"Mostaccio, Catalina",Primero
+AULA_4,Programación III,Teoría,Lunes,0,13:00,14:30,"Schiavoni,  Alejandra",Primero
+AULA_4,Programación III,Teoría,Lunes,0,14:30,17:00,"Schiavoni,  Alejandra",Primero
+AULA_4,Redictado - Taller de Programación,Teoría,Lunes,0,17:00,20:00,"Hasperue, Waldo",Primero
+AULA_4,"Conceptos de Algoritmos, Datos y Programas",Final,Martes,1,08:00,11:30,"Ainchil,  Virginia",Primero
+AULA_4,Fundamentos de Organización de Datos,Práctica,Martes,1,11:30,14:00,"Bertone,  Rodolfo",Primero
+AULA_4,Organización de Computadoras,Teoría,Martes,1,14:00,16:00,"Villagarcia,  Horacio",Primero
+AULA_4,Algoritmos y Estructuras de Datos,Teoría,Martes,1,16:00,18:30,"Fava,  Laura",Primero
+AULA_4,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,18:30,20:30,"De Giusti, Laura",Primero
+AULA_4,Organización de Computadoras,Teoría,Martes,1,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_4,Sistemas Distribuidos y Paralelos,Teoría,Miércoles,2,08:00,11:00,"Pousa, Adrián",Primero
+AULA_4,Redictado - Matemática 2,Teoría,Miércoles,2,11:30,14:30,"Olea, María Mercedes",Primero
+AULA_4,Arquitectura de Computadoras (Ing. en Computación),Práctica,Miércoles,2,14:30,17:00,"Villagarcia,  Horacio",Primero
+AULA_4,Algoritmos y Estructuras de Datos,Teoría,Miércoles,2,17:00,19:00,"Schiavoni,  Alejandra",Primero
+AULA_4,Bases de Datos 2,Teoría,Miércoles,2,19:00,21:30,"Lliteras, Alejandra",Primero
+AULA_4,Bases de Datos 2,Teoría,Jueves,3,08:00,11:00,"Lliteras, Alejandra",Primero
+AULA_4,Redictado - Matemática 4,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_4,Redictado - Matemática 4,Teoría,Jueves,3,14:00,17:00,"Rey Grange, Andrea",Primero
+AULA_4,Redictado - Diseño de Bases de Datos,Teoría,Jueves,3,17:00,20:00,"Marrero,  Luciano",Primero
+AULA_4,Introducción a Base de Datos,Práctica,Jueves,3,20:00,21:30,"Marrero,  Luciano",Primero
+AULA_4,Conceptos y Paradigmas de Lenguajes de Programación,Teoría,Viernes,4,08:00,11:00,"Devincenzi, Juan Alberto",Primero
+AULA_4,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,11:30,13:30,"De Giusti, Laura",Primero
+AULA_4,Redictado - Matemática 2,Teoría,Viernes,4,13:30,17:00,"Olea, María Mercedes",Primero
+AULA_4,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_4,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+AULA_4,Organización de Computadoras,Teoría,Viernes,4,20:30,22:00,"Villagarcia,  Horacio",Primero
+AULA_5,"Conceptos de Algoritmos, Datos y Programas",Teoría,Lunes,0,08:00,11:00,"De Giusti, Laura",Primero
+AULA_5,"Conceptos de Algoritmos, Datos y Programas",Teoría,Lunes,0,11:00,15:30,"De Giusti, Laura",Primero
+AULA_5,Redictado - Curso de Nivelación de Ingeniería en Computación,Teoría,Lunes,0,15:30,19:30,"Ainchil,  Virginia",Primero
+AULA_5,"Conceptos de Algoritmos, Datos y Programas",Teoría,Martes,1,08:00,10:00,"De Giusti, Laura",Primero
+AULA_5,Fundamentos de Organización de Datos,Explicación Práctica,Martes,1,10:00,11:30,"Bertone,  Rodolfo",Primero
+AULA_5,Fundamentos de Organización de Datos,Práctica,Martes,1,11:30,14:00,"Bertone,  Rodolfo",Primero
+AULA_5,Ingeniería de Software 2,Teoría,Martes,1,14:00,17:00,"Gonzalez,  Alejandro",Primero
+AULA_5,Fundamentos de Organización de Datos,Explicación Práctica,Martes,1,17:30,19:00,"Bertone,  Rodolfo",Primero
+AULA_5,Fundamentos de Organización de Datos,Práctica,Martes,1,19:00,21:30,"Bertone,  Rodolfo",Primero
+AULA_5,Organización de Computadoras,Teoría,Miércoles,2,08:00,14:30,"Villagarcia,  Horacio",Primero
+AULA_5,Redictado - Matemática 2,Teoría,Miércoles,2,14:30,16:30,"Olea, María Mercedes",Primero
+AULA_5,Organización de Computadoras,Teoría,Miércoles,2,16:30,20:30,"Villagarcia,  Horacio",Primero
+AULA_5,Matemática 3,Teoría,Jueves,3,08:00,09:30,"Pintarelli, María Beatriz",Primero
+AULA_5,Matemática 3,Práctica,Jueves,3,09:30,12:30,"Pintarelli, María Beatriz",Primero
+AULA_5,Algoritmos y Estructuras de Datos,Teoría,Jueves,3,12:30,14:30,"Schiavoni,  Alejandra",Primero
+AULA_5,Fundamentos de Organización de Datos,Teoría,Jueves,3,14:30,17:30,"Thomas,  Pablo",Primero
+AULA_5,Organización de Computadoras (Recursantes),Práctica,Jueves,3,18:00,21:00,"Villagarcia,  Horacio",Primero
+AULA_5,Fundamentos de Organización de Datos,Teoría,Viernes,4,08:30,11:30,"Bertone,  Rodolfo",Primero
+AULA_5,Redictado - Matemática 2,Teoría,Viernes,4,11:30,14:30,"Olea, María Mercedes",Primero
+AULA_5,Matemática 3,Teoría,Viernes,4,14:30,16:00,"Pintarelli, María Beatriz",Primero
+AULA_5,"Conceptos de Algoritmos, Datos y Programas",Teoría,Viernes,4,16:00,18:00,"De Giusti, Laura",Primero
+AULA_5,Organización de Computadoras (Recursantes),Teoría,Viernes,4,18:00,20:30,"Villagarcia,  Horacio",Primero
+AULA_6,Patrones de Arquitecturas de Software,Teoría,Lunes,0,18:00,20:00,"Bibbó, Mariano",Primero
+AULA_6,Actividad Decanato,Charla,Martes,1,13:00,16:00,"Thomas,  Pablo",Primero
+AULA_6,Actividad Decanato,Charla,Miércoles,2,09:00,12:00,"Thomas,  Pablo",Primero
+AULA_6,Patrones de Arquitecturas de Software,Teoría,Miércoles,2,18:00,20:00,"Bibbó, Mariano",Primero
+AULA_6,Seminario de Lenguajes - Python,Práctica,Jueves,3,15:00,17:00,"Banchoff, Claudia",Primero
+AULA_6,Actividad Decanato,Charla,Viernes,4,13:00,16:00,"Thomas,  Pablo",Primero
+AULA_7,Fundamentos de Arquitectura de Computadoras,Práctica,Lunes,0,08:00,10:00,"Cristina,  Federico",Primero
+AULA_7,Matemática 1,Teoría,Lunes,0,11:00,16:00,"Rey Grange, Andrea",Primero
+AULA_7,Programación III,Práctica,Lunes,0,16:00,19:30,"Schiavoni,  Alejandra",Primero
+AULA_7,Redictado - Matemática B,Teoría,Martes,1,08:00,14:00,"Olea, María Mercedes",Primero
+AULA_7,Procesamiento de Imágenes Digitales,Teoría,Martes,1,14:00,17:00,"Giacomantone, Javier",Primero
+AULA_7,Organización de Computadoras,Práctica,Martes,1,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_7,Organización de Computadoras,Práctica,Martes,1,18:30,20:00,"Villagarcia,  Horacio",Primero
+AULA_7,Taller de Lenguajes I,Práctica,Miércoles,2,08:00,10:00,"Estrebou,  César",Primero
+AULA_7,Programación I,Práctica,Miércoles,2,10:00,12:30,"Ainchil,  Virginia",Primero
+AULA_7,Matemática 1,Teoría,Miércoles,2,13:00,16:00,"Rey Grange, Andrea",Primero
+AULA_7,Aspectos Legales y Profesionales de Informática,Teoría,Miércoles,2,18:00,20:00,"Iglesias,  Gonzalo",Primero
+AULA_7,Redictado - Matemática B,Teoría,Jueves,3,08:00,10:00,"Olea, María Mercedes",Primero
+AULA_7,Algoritmos y Estructuras de Datos,Práctica,Jueves,3,10:00,12:00,"Schiavoni,  Alejandra",Primero
+AULA_7,Redictado - Curso de Ingreso,Teoría,Jueves,3,14:00,18:00,"Ainchil,  Virginia",Primero
+AULA_7,Redictado - Orientación a Objetos 1,Teoría,Jueves,3,18:30,20:30,"Rodriguez, Andrés",Primero
+AULA_7,Taller de Lenguajes I,Práctica,Viernes,4,08:00,10:00,"Estrebou,  César",Primero
+AULA_7,"Tecnología, Ambiente y Sociedad",Teoría,Viernes,4,10:00,13:30,"Castro,  Nestor",Primero
+AULA_7,Algoritmos y Estructuras de Datos,Práctica,Viernes,4,13:30,16:00,"Schiavoni,  Alejandra",Primero
+AULA_7,Organización de Computadoras,Práctica,Viernes,4,17:00,18:30,"Villagarcia,  Horacio",Primero
+AULA_7,Organización de Computadoras,Práctica,Viernes,4,18:30,20:00,"Villagarcia,  Horacio",Primero
+AULA_9,Matemática 1,Teoría,Lunes,0,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Lunes,0,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Lunes,0,18:00,21:00,"Rey Grange, Andrea",Primero
+AULA_9,Seminario de Lenguajes - Python,Teoría,Martes,1,08:00,11:00,"Banchoff, Claudia",Primero
+AULA_9,Taller de Lecto-Comprensión y Traducción en Ingles,Teoría,Martes,1,12:00,15:00,"Peralta, Sandra Noemí",Segundo
+AULA_9,Seminario de Lenguajes - Python,Teoría,Martes,1,15:00,17:00,"Banchoff, Claudia",Primero
+AULA_9,Conceptos y Paradigmas de Lenguajes de Programación,Teoría,Martes,1,17:00,19:00,"Devincenzi, Juan Alberto",Primero
+AULA_9,Fundamentos de Organización de Datos,Práctica,Martes,1,19:00,21:30,"Bertone,  Rodolfo",Primero
+AULA_9,Ingeniería de Software 2,Teoría,Miércoles,2,08:00,11:00,"Boracchia,  Marcos",Primero
+AULA_9,Matemática 1,Teoría,Miércoles,2,11:00,13:00,"Rey Grange, Andrea",Primero
+AULA_9,Organización de Computadoras,Teoría,Miércoles,2,13:00,14:30,"Villagarcia,  Horacio",Primero
+AULA_9,Matemática 3,Práctica,Miércoles,2,16:00,19:00,"Pintarelli, María Beatriz",Primero
+AULA_9,Redes y Comunicaciones,Teoría,Miércoles,2,19:00,21:30,"Barbieri,  Andres",Primero
+AULA_9,Matemática 1,Teoría,Jueves,3,08:00,11:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Jueves,3,15:00,18:00,"Rey Grange, Andrea",Primero
+AULA_9,Matemática 1,Teoría,Jueves,3,18:00,21:00,"Rey Grange, Andrea",Primero
+AULA_9,Redictado - Arquitectura de Computadoras,Teoría,Viernes,4,08:00,11:00,"Villagarcia,  Horacio",Primero
+AULA_9,Concurrencia y Paralelismo,Teoría,Viernes,4,11:00,14:00,"Chichizola, Franco",Primero
+AULA_9,Conceptos de Arquitectura de Computadoras,Explicación Práctica,Viernes,4,14:00,16:00,"Villagarcia,  Horacio",Primero
+AULA_9,Redictado - Sistemas y Organizaciones,Teoría,Viernes,4,17:30,19:30,"Trussi,  Pablo Adalberto",Primero
+Aula_Android,Algoritmos y Programación I,Práctica,Lunes,0,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Android,Matemática A,Teoría,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Android,Matemática A,Teoría,Lunes,0,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Android,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Android,Algoritmos y Programación I,Teoría,Martes,1,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Android,Matemática A,Práctica,Miércoles,2,08:00,11:00,"Rey Grange, Andrea",Primero
+Aula_Android,Algoritmos y Programación I,Práctica,Miércoles,2,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Android,Matemática A,Práctica,Miércoles,2,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Android,"Conceptos de Algoritmos, Datos y Programas",Práctica,Miércoles,2,18:30,20:30,"De Giusti, Laura",Primero
+Aula_Android,Algoritmos y Programación I,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Android,Matemática A,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Android,Algoritmos y Programación I,Práctica,Jueves,3,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Android,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Android,Algoritmos y Programación I,Práctica,Viernes,4,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Android,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+Aula_Mathlab,Algoritmos y Programación I,Práctica,Lunes,0,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Mathlab,Matemática A,Teoría,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Mathlab,Matemática A,Teoría,Lunes,0,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Mathlab,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Mathlab,Algoritmos y Programación I,Teoría,Martes,1,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Mathlab,Matemática A,Práctica,Miércoles,2,08:00,11:00,"Rey Grange, Andrea",Primero
+Aula_Mathlab,Algoritmos y Programación I,Práctica,Miércoles,2,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Mathlab,Matemática A,Práctica,Miércoles,2,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Mathlab,Algoritmos y Programación I,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Mathlab,Matemática A,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Mathlab,Algoritmos y Programación I,Práctica,Jueves,3,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Mathlab,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Mathlab,Algoritmos y Programación I,Práctica,Viernes,4,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Scratch,Algoritmos y Programación I,Práctica,Lunes,0,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Scratch,Matemática A,Teoría,Lunes,0,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Scratch,Matemática A,Teoría,Lunes,0,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Scratch,"Conceptos de Algoritmos, Datos y Programas",Práctica,Martes,1,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Scratch,Algoritmos y Programación I,Teoría,Martes,1,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Scratch,Matemática A,Práctica,Miércoles,2,08:00,11:00,"Rey Grange, Andrea",Primero
+Aula_Scratch,Algoritmos y Programación I,Práctica,Miércoles,2,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Scratch,Matemática A,Práctica,Miércoles,2,15:30,18:30,"Rey Grange, Andrea",Primero
+Aula_Scratch,"Conceptos de Algoritmos, Datos y Programas",Práctica,Miércoles,2,18:30,20:30,"De Giusti, Laura",Primero
+Aula_Scratch,Algoritmos y Programación I,Práctica,Jueves,3,08:00,11:00,"Hasperue, Waldo",Primero
+Aula_Scratch,Matemática A,Práctica,Jueves,3,11:00,14:00,"Rey Grange, Andrea",Primero
+Aula_Scratch,Algoritmos y Programación I,Práctica,Jueves,3,16:00,19:00,"Hasperue, Waldo",Primero
+Aula_Scratch,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,09:00,11:00,"De Giusti, Laura",Primero
+Aula_Scratch,Algoritmos y Programación I,Práctica,Viernes,4,11:00,14:00,"Hasperue, Waldo",Primero
+Aula_Scratch,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero
+Proyecto_con_Alumnos,Algoritmos y Programación I,Teoría,Lunes,0,08:00,11:00,"Hasperue, Waldo",Primero
+Proyecto_con_Alumnos,Redictado - Algoritmos y Programación II,Teoría,Lunes,0,11:00,14:00,"Ainchil,  Virginia",Primero
+Proyecto_con_Alumnos,Matemática C,Teoría,Lunes,0,15:00,18:00,"Semento, Tulio",Primero
+Proyecto_con_Alumnos,Matemática A,Práctica,Martes,1,08:00,11:00,"Rey Grange, Andrea",Primero
+Proyecto_con_Alumnos,Algoritmos y Programación I,Práctica,Martes,1,16:00,19:00,"Hasperue, Waldo",Primero
+Proyecto_con_Alumnos,Matemática A,Práctica,Miércoles,2,08:00,11:00,"Rey Grange, Andrea",Primero
+Proyecto_con_Alumnos,Redictado - Algoritmos y Programación II,Teoría,Miércoles,2,12:30,15:30,"Ainchil,  Virginia",Primero
+Proyecto_con_Alumnos,Programación I,Charla,Miércoles,2,15:30,18:00,"Sanz,  Cecilia",Primero
+Proyecto_con_Alumnos,"Conceptos de Algoritmos, Datos y Programas",Práctica,Miércoles,2,18:30,20:30,"De Giusti, Laura",Primero
+Proyecto_con_Alumnos,Programación I,Charla,Jueves,3,09:00,12:30,"Sanz,  Cecilia",Primero
+Proyecto_con_Alumnos,"Fundamentos de Arquitectura de Computadoras, Sistemas Operativos y Redes",Práctica,Jueves,3,16:30,18:30,"Martín, Eliana Sofía",Primero
+Proyecto_con_Alumnos,Matemática A,Práctica,Viernes,4,08:00,11:00,"Rey Grange, Andrea",Primero
+Proyecto_con_Alumnos,Algoritmos y Programación I,Práctica,Viernes,4,11:00,14:00,"Hasperue, Waldo",Primero
+Proyecto_con_Alumnos,"Conceptos de Algoritmos, Datos y Programas",Práctica,Viernes,4,18:30,20:30,"De Giusti, Laura",Primero

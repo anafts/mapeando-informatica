@@ -1,0 +1,32 @@
+[
+    {
+        "materia": "Matemática D",
+        "tipo": "Teoría",
+        "dia": "Martes",
+        "dia_num": 1,
+        "hora_inicio": "08:30",
+        "hora_fin": "11:30",
+        "docente": "Fasano, María Victoria",
+        "semestre": 2
+    },
+    {
+        "materia": "Matemática B",
+        "tipo": "Teoría",
+        "dia": "Jueves",
+        "dia_num": 3,
+        "hora_inicio": "15:00",
+        "hora_fin": "17:00",
+        "docente": "Olea, María Mercedes",
+        "semestre": 2
+    },
+    {
+        "materia": "Matemática D",
+        "tipo": "Teoría",
+        "dia": "Viernes",
+        "dia_num": 4,
+        "hora_inicio": "08:30",
+        "hora_fin": "11:30",
+        "docente": "Fasano, María Victoria",
+        "semestre": 2
+    }
+]
