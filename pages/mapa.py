@@ -43,7 +43,7 @@ visual_mode = st.sidebar.radio(
 )
 
 styles = get_perfil_styles(visual_mode)
-font_size = 18 if baja_vision else styles["font_size"]
+font_size = 18 if baja_vision else 13
 
 st.markdown(f"""
     <style>
