@@ -6,7 +6,7 @@ import streamlit as st
 
 from streamlit_folium import st_folium
 from src.config import PROCESSED_SCHEDULE_PATH, GEOJSON_PATH
-from src.accessibility import get_perfil_styles, PERFILES_ACCESIBILIDAD
+from src.accessibility import get_perfil_styles, PERFILES_ACCESIBILIDAD, get_perfil_fuentes
 
 @st.cache_data
 def load_clean_data():
@@ -43,7 +43,7 @@ visual_mode = st.sidebar.radio(
 )
 
 styles = get_perfil_styles(visual_mode)
-font_size = 18 if baja_vision else 13
+font_size = get_perfil_fuentes("Baja Visión" if baja_vision else "Estandard")
 
 st.markdown(f"""
     <style>

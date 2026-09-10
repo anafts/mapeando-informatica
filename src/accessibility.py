@@ -33,5 +33,13 @@ PERFILES_ACCESIBILIDAD = {
     }
 }
 
+PERFILES_FUENTES = {
+    "Estandard": 13,
+    "Baja Visión": 18
+}
+
 def get_perfil_styles(modo_visual):
     return PERFILES_ACCESIBILIDAD.get(modo_visual, PERFILES_ACCESIBILIDAD["Estandard"])
+
+def get_perfil_fuentes(modo_visual):
+    return PERFILES_FUENTES.get(modo_visual, PERFILES_FUENTES["Estandard"])
