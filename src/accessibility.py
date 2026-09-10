@@ -8,19 +8,33 @@ PERFILES_ACCESIBILIDAD = {
         "font_size": 13,
         "template_grafico": "plotly_white"
     },
-    "Daltonismo": {
-        "color_ocupado": "#d55e00", 
-        "color_libre": "#56b4e9",  
+    "Protanomalía": {
+        "color_ocupado": "#D55E00",
+        "color_libre": "#56B4E9",
         "escala_plotly": px.colors.sequential.Viridis,
         "font_size": 13,
         "template_grafico": "plotly_white"
     },
-    "Baja Visión": {  
-        "color_ocupado": "#ff0000",
-        "color_libre": "#00ff00",
-        "escala_plotly": ["#ffffff", "#000000"],
-        "font_size": 18,
-        "template_grafico": "plotly_dark"
+    "Protanopia": {
+        "color_ocupado": "#D55E00",
+        "color_libre": "#0072B2",
+        "escala_plotly": px.colors.sequential.Viridis,
+        "font_size": 13,
+        "template_grafico": "plotly_white"
+    },
+    "Deuteranopia": {
+        "color_ocupado": "#D55E00",
+        "color_libre": "#56B4E9",
+        "escala_plotly": px.colors.sequential.Viridis,
+        "font_size": 13,
+        "template_grafico": "plotly_white"
+    },
+    "Tritanopia": {
+        "color_ocupado": "#CC79A7",
+        "color_libre": "#0072B2",
+        "escala_plotly": px.colors.sequential.Viridis,
+        "font_size": 13,
+        "template_grafico": "plotly_white"
     }
 }
 

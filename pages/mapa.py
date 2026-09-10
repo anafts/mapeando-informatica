@@ -34,6 +34,8 @@ if df_schedule.empty or not geojson_data:
 st.sidebar.header("Configuración Visual")
 st.sidebar.write("Seleccione el modo de contraste adecuado:")
 
+baja_vision = st.sidebar.toggle("Baja Visión", value=True)
+
 visual_mode = st.sidebar.radio(
     "Perfil de Accesibilidad:", 
     options=list(PERFILES_ACCESIBILIDAD.keys()),
@@ -41,14 +43,15 @@ visual_mode = st.sidebar.radio(
 )
 
 styles = get_perfil_styles(visual_mode)
+font_size = 18 if baja_vision else styles["font_size"]
 
 st.markdown(f"""
     <style>
         p, .stMarkdown p, .stMarkdown li, label, div[data-baseweb="select"] {{
-            font-size: {styles["font_size"]}px !important;
+            font-size: {font_size}px !important;
         }}
         h2, h3 {{
-            font-size: {styles["font_size"] + 4}px !important;
+            font-size: {font_size + 4}px !important;
         }}
     </style>
 """, unsafe_allow_html=True)
