@@ -16,4 +16,6 @@ notebooks/.ipynb_checkpoints/
 .venv
 venv
 
-.vscode 
+.vscode
+
+.agents

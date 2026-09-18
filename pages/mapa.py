@@ -6,7 +6,7 @@ import streamlit as st
 
 from streamlit_folium import st_folium
 from src.config import PROCESSED_SCHEDULE_PATH, GEOJSON_PATH
-from src.accessibility import get_perfil_styles, PERFILES_ACCESIBILIDAD
+from src.accessibility import get_perfil_styles, PERFILES_ACCESIBILIDAD, get_perfil_fuentes
 
 @st.cache_data
 def load_clean_data():
@@ -34,6 +34,8 @@ if df_schedule.empty or not geojson_data:
 st.sidebar.header("Configuración Visual")
 st.sidebar.write("Seleccione el modo de contraste adecuado:")
 
+baja_vision = st.sidebar.toggle("Baja Visión", value=True)
+
 visual_mode = st.sidebar.radio(
     "Perfil de Accesibilidad:", 
     options=list(PERFILES_ACCESIBILIDAD.keys()),
@@ -41,14 +43,15 @@ visual_mode = st.sidebar.radio(
 )
 
 styles = get_perfil_styles(visual_mode)
+font_size = get_perfil_fuentes("Baja Visión" if baja_vision else "Estandard")
 
 st.markdown(f"""
     <style>
         p, .stMarkdown p, .stMarkdown li, label, div[data-baseweb="select"] {{
-            font-size: {styles["font_size"]}px !important;
+            font-size: {font_size}px !important;
         }}
         h2, h3 {{
-            font-size: {styles["font_size"] + 4}px !important;
+            font-size: {font_size + 4}px !important;
         }}
     </style>
 """, unsafe_allow_html=True)
