@@ -95,7 +95,7 @@ with col_panel:
     info_placeholder = st.empty()
 
 with col_map:
-    map_obj = folium.Map(location=[-34.90346, -57.93766], zoom_start=19, dragging=False, scrollWheelZoom=False, doubleClickZoom=False, touchZoom=False, zoomControl=False, boxZoom=False, keyboard=False)
+    map_obj = folium.Map(location=[-34.90355602292803, -57.93797644698431], zoom_start=20, dragging=False, scrollWheelZoom=False, doubleClickZoom=False, touchZoom=False, zoomControl=False, boxZoom=False, keyboard=False)
     
     folium.raster_layers.TileLayer(
     tiles="https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{y}.png",
