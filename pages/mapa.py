@@ -57,9 +57,12 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 
-st.title("Mapa de Ocupación de Aulas")
+st.set_page_config(
+    page_title="Mapa de Ocupación de Aulas",
+    layout="wide"
+)
 
-col_map, col_panel = st.columns([2.5, 1.2], gap="large")
+col_map, col_panel = st.columns([2, 1], gap="medium")
 
 with col_panel:
     st.subheader("Filtros de Búsqueda")
@@ -92,16 +95,16 @@ with col_panel:
     info_placeholder = st.empty()
 
 with col_map:
-    map_obj = folium.Map(location=[-34.9032, -57.9378], zoom_start=19, max_zoom=22)
+    map_obj = folium.Map(location=[-34.90346, -57.93766], zoom_start=19, dragging=False, scrollWheelZoom=False, doubleClickZoom=False, touchZoom=False, zoomControl=False, boxZoom=False, keyboard=False)
     
     folium.raster_layers.TileLayer(
-        tiles="https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{y}.png",
-        attr="Instituto Geográfico Nacional (IGN) - República Argentina",
-        name="Argenmap (IGN)",
-        overlay=False,
-        control=True,
-        tms=True
-    ).add_to(map_obj)
+    tiles="https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{y}.png",
+    attr="IGN",
+    name="Argenmap (IGN)",
+    overlay=False,
+    control=True,
+    tms=True
+).add_to(map_obj)
     
     def feature_style(feature):
         geo_classroom = feature['properties'].get('aula')
@@ -121,7 +124,7 @@ with col_map:
         tooltip=folium.GeoJsonTooltip(fields=['Nam', 'aula'])
     ).add_to(map_obj)
     
-    map_click_data = st_folium(map_obj, width=None, height=500, key="mapa_unlp")
+    map_click_data = st_folium(map_obj, width=None, height=600, key="mapa_unlp")
 
 
 with info_placeholder.container():
